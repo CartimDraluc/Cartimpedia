@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    min-height: 100vh;
+    position: relative;
+    font-family: monospace;
+}
+#button_container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#button_container button{
+    border: none;
+    outline: none;
+    font-size: 25px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #6f6f6f;
+    background-color: #1f1f1f;
+}
+#button_container button:hover{
+    font-size: 30px;
+    color: #fff;
+    background-color: #3f3f3f;
+}
+#RickBG{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://c.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif);
+    background-repeat: repeat;
+    background-size: 200px 300px;
+}
