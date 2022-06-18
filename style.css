@@ -1,4 +1,7 @@
 body{margin:0;padding:0;box-sizing: border-box;}
+h3{text-align: center;}
+a{text-decoration: none;color: #8f8f8f;}
+a:hover{color: #fff;}
 
 /* -------- NAVBAR -------- */
 .topnav {
@@ -58,7 +61,7 @@ body{margin:0;padding:0;box-sizing: border-box;}
 /* -------- NEWS CONTAINER -------- */
 .latest_news_container{
     overflow: hidden;
-    width: 100vw;
+    width: 100%;
     display: flex;
     position: relative;
     align-items: center;
@@ -93,4 +96,68 @@ body{margin:0;padding:0;box-sizing: border-box;}
     font-family: monospace;
     text-transform: uppercase;
     background-color: #1a1aec;
+}
+
+/* -------- INDEX.HTML -------- */
+
+/* -------- ABOUT.HTML -------- */
+/* Table Section */
+table, th, td {
+    align-items: center;
+    margin: 30px auto;
+    border:1px solid black;
+    border-collapse: collapse;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+tr:nth-child(odd){
+    background-color: #2f2f2f;
+    color: #fff;
+}
+tr:nth-child(even){
+    color: #000;
+}
+
+/* About Owner Section */
+.about_owner{
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 120px;
+    margin-bottom: 50px;
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    border-radius: 10px;
+    padding: 7px;
+    box-shadow: 0 0 5px #000000;
+}
+.about_owner img{
+    margin-top: 20px;
+    border-radius: 30px;
+}
+@media screen and (max-width:1100px) {
+    .about_owner{
+        width: 80%;
+    }
+    .about_owner img{
+        max-width: 200px;
+        max-height: 200px;
+    }
+}
+.created_webs{
+    text-align: left;
+}
+
+/* Contact Section */
+.contact_info{
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: #333;
+    color: #fff;
 }

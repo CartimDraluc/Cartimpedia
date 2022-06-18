@@ -10,3 +10,7 @@ function navbar() {
       x.className = "topnav";
      }
 }
+
+function NA(){
+  alert('You are currently not allowed to enter! Sorry mate.')
+}
