@@ -42,7 +42,7 @@ a:hover{color: #fff;}
     }
 }
 @media screen and (max-width: 700px) {
-    .topnav.responsive {position: relative;justify-content: space-between;}
+    .topnav.responsive {justify-content: space-between;}
     .topnav.responsive .icon {
       position: absolute;
       right: 0;
@@ -89,6 +89,7 @@ a:hover{color: #fff;}
     background-color: #fa1d1d;
 }
 .latest_news_container marquee{
+    z-index: 1;
     margin: 0;
     width: 100%;
     color: #fff;
@@ -98,7 +99,63 @@ a:hover{color: #fff;}
     background-color: #1a1aec;
 }
 
+/* -------- Footer -------- */
+.footer{
+    background-color: #2f2f2f;
+    color: #fff;
+    font-size: 18px;
+    position: fixed;
+    display: flex;
+    justify-content: space-evenly;
+    bottom: 0;
+    width: 100%;
+    align-items: center;
+    border-top: 1px solid #fff;
+}
+@media screen and (max-width:1100px) {
+    .footer{font-size: 14px;}
+}
+
 /* -------- INDEX.HTML -------- */
+/* -------- Alert Section -------- */
+.alert{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 80%;
+    color: #000000;
+    background-color: #f3bc00;
+    margin: auto;
+    padding: 14px;
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-family: 'VT323';
+    border-radius: 10px;
+    animation: bg-change 6s linear infinite;
+}
+@keyframes bg-change {
+    to{
+        filter: hue-rotate(360deg);
+    }
+}
+#construct{
+    font-size: 50px;
+}
+#cog{
+    margin-top: 16px;
+    font-size: 60px;
+    animation: spin 10s linear infinite;
+}
+@keyframes spin{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
 
 /* -------- ABOUT.HTML -------- */
 /* Table Section */
@@ -161,60 +218,4 @@ tr:nth-child(even){
     background-color: #333;
     color: #fff;
     margin-bottom: 200px;
-}
-
-.footer{
-    background-color: #2f2f2f;
-    color: #fff;
-    font-size: 18px;
-    position: fixed;
-    display: flex;
-    justify-content: space-evenly;
-    bottom: 0;
-    width: 100%;
-    align-items: center;
-    border-top: 1px solid #fff;
-}
-
-@media screen and (max-width:1100px) {
-    .footer{font-size: 14px;}
-}
-
-.alert{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    width: 80%;
-    color: #000000;
-    background-color: #f3bc00;
-    margin: auto;
-    padding: 14px;
-    text-align: center;
-    font-size: 25px;
-    letter-spacing: 1px;
-    font-family: 'VT323';
-    border-radius: 10px;
-    animation: bg-change 6s linear infinite;
-}
-@keyframes bg-change {
-    to{
-        filter: hue-rotate(360deg);
-    }
-}
-#construct{
-    font-size: 50px;
-}
-#cog{
-    margin-top: 16px;
-    font-size: 60px;
-    animation: spin 10s linear infinite;
-}
-@keyframes spin{
-    0%{
-        transform: rotate(0deg);
-    }
-    100%{
-        transform: rotate(360deg);
-    }
 }
