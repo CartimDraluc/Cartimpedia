@@ -18,3 +18,5 @@ Our products may contain advertising and analytics. The providers of these servi
 
 # Changes to This Policy
 We will update this policy regularly. When we update this, we will update the date at the bottom of the page and if the changes are significant, we will email you or highlight the changes. The changes will be effective when posted. Please check this page regualrly so that you remian aware of what information we collect and how we use it.
+
+*Last updated on 20 June 2022*
