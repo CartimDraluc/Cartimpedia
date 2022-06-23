@@ -4,40 +4,70 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="style.css">
     <title>Cartimpedia</title>
 </head>
 <body>
-    <nav class="topnav" id="myTopnav">
-        <a href="index.html" class="active"><ion-icon name="home-outline"></ion-icon> Home</a>
-        <a href="https://nyankaungset.github.io/Templates/soon.html">Coming Soon</a>
-        <a href="https://nyankaungset.github.io/Templates/soon.html">Coming Soon</a>
-        <a href="about.html"><strong>i</strong>About</a>
-        <a href="javascript:void(0);" class="icon" onclick="navbar()">
-            <ion-icon name="list-outline"></ion-icon>
-        </a>
-    </nav>
-
-    <div class="latest_news_container">
-        <p class="news_text">NEWS</p>
-        <marquee behavior="scroll">
-            this website is currently under construction...
-        </marquee>
-    </div>    
+    <div id="main_container">
+        <nav class="topnav" id="myTopnav">
+            <a href="index.html" class="active"><ion-icon name="home-outline"></ion-icon> Home</a>
+            <a href="https://discord.gg/zM9dfuPN">Discord Server</a>
+            <a href="https://nyankaungset.github.io/Templates/soon.html">Coming Soon</a>
+            <a href="about.html"><strong>i</strong>About</a>
+            <a href="javascript:void(0);" class="icon" onclick="navbar()">
+                <ion-icon name="list-outline"></ion-icon>
+            </a>
+        </nav>
     
-    <div class="alert">
-        <ion-icon id="construct" name="construct-outline"></ion-icon>
-        <p>Please try again later. This page is currently under constuction.</p>
-        <ion-icon id="cog" name="cog-outline"></ion-icon>
-    </div>
+        <div class="latest_news_container">
+            <p class="news_text">NEWS</p>
+            <marquee behavior="scroll">
+                this website is currently under construction...
+            </marquee>
+        </div>    
+        
+        <div class="alert">
+            <ion-icon id="construct" name="construct-outline"></ion-icon>
+            <p>Please try again later. This page is currently under constuction.</p>
+            <ion-icon id="cog" name="cog-outline"></ion-icon>
+        </div>
 
-    <footer>
-      <div class="footer">
-        <p>© 2022 Cartimpedia</p>
-        <a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/POLICY.md">Policy</a>
+        <footer>
+          <div class="footer">
+            <p>© 2022 Cartimpedia</p>
+            <button class="FAQMain" id="GoToFAQ">FAQs</button>
+            <a target="_blank" href="https://github.com/CartimDraluc/Cartimpedia/blob/main/POLICY.md">Policy</a>
+          </div>
+        </footer>
+    </div>
+  
+    <div id="FAQs_container">
+      <div class="navbar">
+        <button class="FAQMain" id="BackToMain">Back To Main</button>
       </div>
-    </footer>
+
+      <h1 class="flip">Title<h1>
+          <div class="panel">
+        <p>Description that slides down</p>
+          </div><hr>
+  
+      <h1 class="flip">Title<h1>
+          <div class="panel">
+        <p>description that slide down</p>
+          </div><hr>
+          
+      <h1 class="flip">Title<h1>
+      <div class="panel">
+        <p>Description that slides down</p>
+      </div><hr>
+  
+      <h1 class="flip">Title<h1>
+      <div class="panel">
+        <p>description that slide down</p>
+      </div><hr>
+    </div>
 
     <script src="script.js"></script>
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
@@ -46,6 +76,9 @@
 </html>
 
 <!-- TO DO 
-2. Discussion
+1. FAQs (Done)
+2. Discussion (Done)
 3. Trending now
+4. Portfolio (In Progress)
+5. Landing Page
 -->

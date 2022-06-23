@@ -1,7 +1,7 @@
 body{margin:0;padding:0;box-sizing: border-box;}
 h3{text-align: center;}
 a{text-decoration: none;color: #8f8f8f;}
-a:hover{color: #fff;}
+a:hover{color: #fff;text-decoration: underline;}
 
 /* -------- NAVBAR -------- */
 .topnav {
@@ -116,6 +116,37 @@ a:hover{color: #fff;}
     .footer{font-size: 14px;}
 }
 
+/* -------- FAQ Section -------- */
+.FAQMain{
+    border: none;
+    background-color: #2f2f2f;
+    color: #8f8f8f;
+}
+.FAQMain:hover{
+    color: #fff;
+    text-decoration: underline;
+}
+
+#FAQs_container .navbar{
+    position: sticky;
+    top: 0;
+    background-color: #2f2f2f;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.panel,.flip{
+    padding:5px;
+    text-align:center;
+    background-color:#e5eecc;
+    border:solid 1px #c3c3c3;
+}
+.panel{
+    padding:50px;
+    display:none;
+}
+
+
 /* -------- INDEX.HTML -------- */
 /* -------- Alert Section -------- */
 .alert{
@@ -179,10 +210,10 @@ tr:nth-child(even){
 
 /* About Owner Section */
 .about_owner{
-    width: 30%;
+    width: 40%;
     margin: 0 auto;
     margin-top: 120px;
-    margin-bottom: 50px;
+    margin-bottom: 200px;
     text-align: center;
     background-color: #333;
     color: #fff;
@@ -190,11 +221,26 @@ tr:nth-child(even){
     padding: 7px;
     box-shadow: 0 0 5px #000000;
 }
+.about_owner p{
+    font-family: cursive,sans-serif;
+}
+.about_owner h1{
+    font-family: Cinzel,sans-serif;
+}
+.about_owner .rank{
+    color: #8f8f8f;
+    cursor: pointer;
+}
+.about_owner .rank:hover{
+    color: #ffff00;
+}
 .about_owner img{
+    width: 350px;
+    height: 350px;
     margin-top: 20px;
     border-radius: 30px;
 }
-@media screen and (max-width:1100px) {
+@media screen and (max-width:946px) {
     .about_owner{
         width: 80%;
     }
@@ -202,20 +248,17 @@ tr:nth-child(even){
         max-width: 200px;
         max-height: 200px;
     }
+    .about_owner .rank{
+        color: #ffff00;
+    }
 }
 .created_webs{
     text-align: left;
 }
-
-/* Contact Section */
 .contact_info{
-    margin: 0 auto;
-    width: 80%;
-    text-align: center;
     padding: 10px;
     border-radius: 20px;
     font-size: 20px;
     background-color: #333;
     color: #fff;
-    margin-bottom: 200px;
 }

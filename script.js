@@ -11,6 +11,24 @@ function navbar() {
      }
 }
 
+// Not Allowed
 function NA(){
-  alert('You are currently not allowed to enter! Sorry mate.')
+  alert('You are currently not allowed! Sorry mate. :(')
 }
+
+
+// FAQ
+$(document).ready(function(){
+  $('#FAQs_container').hide();
+  $('#GoToFAQ').click(function(){
+    $('#main_container').hide();
+    $('#FAQs_container').show();
+  });
+  $('#BackToMain').click(function(){
+    $('#main_container').show();
+    $('#FAQs_container').hide();
+  });
+  $(".flip").click(function(){
+    $(this).next().find(".panel").slideToggle("slow");
+  });
+});
