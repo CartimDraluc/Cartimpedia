@@ -228,11 +228,8 @@ tr:nth-child(even){
     font-family: Cinzel,sans-serif;
 }
 .about_owner .rank{
-    color: #8f8f8f;
-    cursor: pointer;
-}
-.about_owner .rank:hover{
     color: #ffff00;
+    cursor: pointer;
 }
 .about_owner img{
     width: 350px;
