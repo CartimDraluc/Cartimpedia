@@ -188,6 +188,33 @@ a:hover{color: #fff;text-decoration: underline;}
     }
 }
 
+
+
+/* -------- DISCUSSIONS.HTML -------- */
+.main_container div{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 35px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #2f2f2f;
+    display: flex;
+    justify-content: space-around;
+}
+.main_container div img{
+    width: 150px;
+    border-radius: 20px;
+}
+.main_container div p{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 10px;
+}
+.main_container div p span{
+    text-decoration: underline;
+    font-weight: bold;
+}
 /* -------- ABOUT.HTML -------- */
 /* Table Section */
 table, th, td {
