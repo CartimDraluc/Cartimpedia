@@ -1,183 +1,125 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="style.css">
-        <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
-        <title>Portfolio website complete</title>
-    </head>
-    <body>
-        <!--===== HEADER =====-->
-        <header class="l-header">
-            <nav class="nav bd-grid">
-                <div>
-                    <a href="#" class="nav__logo">Cartim</a>
-                </div>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Cartim Draluc</title>
+</head>
+<body>
+    <header>
+        <a href="" class="logo">Logo</a>
+        <div id="toggle" onclick="toggle()"></div>
 
-                <div class="nav__menu" id="nav-menu">
-                    <ul class="nav__list">
-                        <li class="nav__item"><a href="#home" class="nav__link active">Home</a></li>
-                        <li class="nav__item"><a href="#about" class="nav__link">About</a></li>
-                        <li class="nav__item"><a href="#skills" class="nav__link">Skills</a></li>
-                        <li class="nav__item"><a href="#contact" class="nav__link">Contact</a></li>
-                    </ul>
-                </div>
+        <div id="navigation">
+            <ul>
+                <li><a href="#Home">Home</a></li>
+                <li><a href="#About">About</a></li>
+                <li><a href="#Experience">Experience</a></li>
+                <li><a href="#Projects">Projects</a></li>
+                <li><a href="#Contact">Contact</a></li>
+            </ul>
+        </div>
+    </header>
 
-                <div class="nav__toggle" id="nav-toggle">
-                    <i class='bx bx-menu'></i>
-                </div>
-            </nav>
-        </header>
 
-        <main class="l-main">
-            <!--===== HOME =====-->
-            <section class="home bd-grid" id="home">
-                <div class="home__data">
-                    <h1 class="home__title">Hi,<br>I'am <span class="home__title-color">Cartim Draluc</span><br> Web Designer</h1>
+    <section class="Home" id="Home">
+        <div class="content">
+            <h2>Hello World,<br>I'm <span>Cartim Draluc</span></h2>
+            <p>Ex veniam commodo sit tempor adipisicing qui minim cupidatat proident magna. Pariatur et nulla anim 
+                sint sit do deserunt eu aliquip id cillum cupidatat laborum. Aliquip ad minim deserunt pariatur in 
+                quis voluptate nulla commodo reprehenderit non consectetur.
+            </p>
+            <a href="#About">Know More</a>
+        </div>
+    </section>
 
-                    <a href="#contact" class="button">Contact</a>
-                </div>
-
-                <div class="home__social">
-                    <a href="" class="home__social-icon"><i class='bx bxl-linkedin'></i></a>
-                    <a href="" class="home__social-icon"><i class='bx bxl-behance' ></i></a>
-                    <a href="" class="home__social-icon"><i class='bx bxl-github' ></i></a>
-                </div>
-
-                <div class="home__img">
-                    <svg class="home__blob" viewBox="0 0 479 467" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                        <mask id="mask0" mask-type="alpha">
-                            <path d="M9.19024 145.964C34.0253 76.5814 114.865 54.7299 184.111 29.4823C245.804 6.98884 311.86 -14.9503 370.735 14.143C431.207 44.026 467.948 107.508 477.191 174.311C485.897 237.229 454.931 294.377 416.506 344.954C373.74 401.245 326.068 462.801 255.442 466.189C179.416 469.835 111.552 422.137 65.1576 361.805C17.4835 299.81 -17.1617 219.583 9.19024 145.964Z"/>
-                        </mask>
-                        <g mask="url(#mask0)">
-                            <path d="M9.19024 145.964C34.0253 76.5814 114.865 54.7299 184.111 29.4823C245.804 6.98884 311.86 -14.9503 370.735 14.143C431.207 44.026 467.948 107.508 477.191 174.311C485.897 237.229 454.931 294.377 416.506 344.954C373.74 401.245 326.068 462.801 255.442 466.189C179.416 469.835 111.552 422.137 65.1576 361.805C17.4835 299.81 -17.1617 219.583 9.19024 145.964Z"/>
-                            <image class="home__blob-img" x="50" y="60" href="https://github.com/CartimDraluc/Cartimpedia/blob/main/PortfolioTest/pixlr-bg-result.png?raw=true"/>
-                        </g>
-                    </svg>
-                </div>
-            </section>
-
-            <!--===== ABOUT =====-->
-            <section class="about section " id="about">
-                <h2 class="section-title">About</h2>
-
-                <div class="about__container bd-grid">
-                    <div class="about__img">
-                        <img src="https://github.com/CartimDraluc/Cartimpedia/blob/main/PortfolioTest/OwnerProfile.jpg?raw=true" alt="">
-                    </div>
-                    
-                    <div>
-                        <h2 class="about__subtitle">I'am Cartim</h2>
-                        <p class="about__text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate cum expedita quo culpa tempora, assumenda, quis fugiat ut voluptates soluta, aut earum nemo recusandae cumque perferendis! Recusandae alias accusamus atque.</p>           
-                    </div>                                   
-                </div>
-            </section>
-
-            <!--===== SKILLS =====-->
-            <section class="skills section" id="skills">
-                <h2 class="section-title">Skills</h2>
-
-                <div class="skills__container bd-grid">          
-                    <div>
-                        <h2 class="skills__subtitle">Profesional Skills</h2>
-                        <p class="skills__text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit optio id vero amet, alias architecto consectetur error eum eaque sit.</p>
-                        <div class="skills__data">
-                            <div class="skills__names">
-                                <i class='bx bxl-html5 skills__icon'></i>
-                                <span class="skills__name">HTML5</span>
-                            </div>
-                            <div class="skills__bar skills__html">
-
-                            </div>
-                            <div>
-                                <span class="skills__percentage">15%</span>
-                            </div>
-                        </div>
-                        <div class="skills__data">
-                            <div class="skills__names">
-                                <i class='bx bxl-css3 skills__icon'></i>
-                                <span class="skills__name">CSS3</span>
-                            </div>
-                            <div class="skills__bar skills__css">
-                                
-                            </div>
-                            <div>
-                                <span class="skills__percentage">5%</span>
-                            </div>
-                        </div>
-                        <div class="skills__data">
-                            <div class="skills__names">
-                                <i class='bx bxl-javascript skills__icon' ></i>
-                                <span class="skills__name">JAVASCRIPT</span>
-                            </div>
-                            <div class="skills__bar skills__js">
-                                
-                            </div>
-                            <div>
-                                <span class="skills__percentage">1%</span>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div>              
-                        <img src="https://github.com/bedimcode/portfolio-responsive-complete/blob/master/assets/img/work3.jpg?raw=true" alt="" class="skills__img">
-                    </div>
-                </div>
-            </section>
-
-            <!--===== WORK =====-->
-            <!--section class="work section" id="work">
-                <h2 class="section-title">Work</h2>
-
-                <div class="work__container bd-grid">
-                    <a href="" class="work__img">
-                        <img src="assets/img/work1.jpg" alt="">
-                    </a>
-                    <a href="" class="work__img">
-                        <img src="assets/img/work2.jpg" alt="">
-                    </a>
-                    <a href="" class="work__img">
-                        <img src="assets/img/work3.jpg" alt="">
-                    </a>
-                    <a href="" class="work__img">
-                        <img src="assets/img/work4.jpg" alt="">
-                    </a>
-                    <a href="" class="work__img">
-                        <img src="assets/img/work5.jpg" alt="">
-                    </a>
-                    <a href="" class="work__img">
-                        <img src="assets/img/work6.jpg" alt="">
-                    </a>
-                </div>
-            </section-->
-
-            <!--===== CONTACT =====-->
-            <section class="contact section" id="contact">
-                <h2 class="section-title">Contact</h2>
-
-                <div class="contact__container bd-grid">
-                    <form action="" class="contact__form">
-                        <input type="text" placeholder="Name" class="contact__input">
-                        <input type="mail" placeholder="Email" class="contact__input">
-                        <textarea name="" id="" cols="0" rows="10" class="contact__input"></textarea>
-                        <input type="button" value="Send" class="contact__button button">
-                    </form>
-                </div>
-            </section>
-        </main>
-
-        <!--===== FOOTER =====-->
-        <footer class="footer">
-            <p class="footer__title">Cartim</p>
-            <div class="footer__social">
-                <a href="#" class="footer__icon"><i class='bx bxl-facebook' ></i></a>
-                <a href="#" class="footer__icon"><i class='bx bxl-instagram' ></i></a>
-                <a href="#" class="footer__icon"><i class='bx bxl-twitter' ></i></a>
+    <section class="About" id="About">
+        <h1>About Me</h1>
+        <div class="details">
+            <p>Name : <span>Cartim Draluc</span></p>
+            <p>Age : <span>17</span></p>
+            <p>D.O.B : <span>21.9.2005</span></p>
+            <p>Country : <span>United States Of America</span></p>
+            <p>Address : <span>14th Avenue, Honolulu, Hawaii, USA</span></p>
+        </div>
+        <div class="content">
+            <div class="leftSide">
+                <h2>Bio</h2>
+                <p>Sit culpa et enim non eu dolor amet qui ut nulla dolor dolore tempor nostrud. Ea ut commodo voluptate 
+                    aliqua ullamco non culpa ad tempor officia. Nulla minim veniam dolor aliqua eiusmod proident fugiat 
+                    culpa dolore sunt. Laboris laborum velit cillum id aliquip in sint labore velit eiusmod.</p>
             </div>
-        </footer>
+            <div class="rightSide">
+                <h2>Hobbies</h2>
+                <ul>
+                    <li>Playing Video Games</li>
+                    <li>Eating</li>
+                    <li>Relaxing</li>
+                    <li>Coding</li>
+                    <li>Animation</li>
+                    <li>Listening To Music</li>
+                </ul>
+            </div>
+        </div>
+    </section>
 
-        <script src="https://unpkg.com/scrollreveal"></script>
-        <script src="script.js"></script>
-    </body>
+    <section class="Experience" id="Experience">
+        <h1>My Experience</h1>
+        <div class="box_container">
+            <div class="box">
+                <span>1 Month+</span>
+                <p>Of Experience</p>
+            </div>
+            <div class="box">
+                <span>4+</span>
+                <p>Projects</p>
+            </div>
+            <div class="box">
+                <span>1</span>
+                <p>Partner</p>
+            </div>
+            <div class="box">
+                <span>1</span>
+                <p>Happy Clients</p>
+            </div>
+            <div class="box">
+                <span>1</span>
+                <p>Follower on Github</p>
+            </div>
+            <div class="box">
+                <span>10+</span>
+                <p>contributions in 2022</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="Projects" id="Projects">
+        <h1>Latest Projects</h1>
+        <div style="width: 94%;height:100vh;margin:auto;">
+            <iframe src="https://nyankaungset.github.io/Alpha/"></iframe>
+        </div>
+    </section>
+
+    <section class="Contact" id="Contact">
+        <h1>Get in Touch</h1>
+        <div class="container">
+            <form action="https://formsubmit.co/e5f3f8180747584f2aee8b3588047861" method="POST">
+                <input type="text" id="name" name="Name" placeholder="Your Name" required>
+                <input type="email" id="email" name="Email" placeholder="Email Address" required>
+                <input type="text" id="phone" name="Phone&nbsp;no" placeholder="Phone no." required>
+                <textarea id="message" rows="4" name="Message" placeholder="How can I help you?"></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </section>
+
+
+    <footer>©2022 Cartim Draluc</footer>
+
+    <script src="script.js"></script>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</body>
 </html>
