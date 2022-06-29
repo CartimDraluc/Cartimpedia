@@ -215,6 +215,17 @@ a:hover{color: #fff;text-decoration: underline;}
     text-decoration: underline;
     font-weight: bold;
 }
+
+@media (max-width:800px){
+    .main_container div{
+        width: 90%;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .main_container div img{
+        margin: auto;
+    }
+}
 /* -------- ABOUT.HTML -------- */
 /* Table Section */
 table, th, td {
