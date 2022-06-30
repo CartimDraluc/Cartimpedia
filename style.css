@@ -191,38 +191,51 @@ a:hover{color: #fff;text-decoration: underline;}
 
 
 /* -------- DISCUSSIONS.HTML -------- */
-.main_container div{
-    width: 60%;
+.main_div h1{
+    text-align: center;
+    color: #f3bc00;
+}
+.main_div{
+    width: 80%;
     margin: 0 auto;
     margin-top: 35px;
     padding: 10px;
     border-radius: 10px;
     background-color: #2f2f2f;
+    position: relative;
+}
+.main_div .RAI{position: absolute;
+    right: 7px;
+    bottom: 7px;
+    font-size:15px;
+    color: red;
+}
+.content_div{
+    width: 100%;
     display: flex;
     justify-content: space-around;
 }
-.main_container div img{
+.content_div img{
     width: 150px;
     border-radius: 20px;
 }
-.main_container div p{
+.content_div p{
     color: #fff;
     font-size: 18px;
     font-weight: 400;
     padding: 10px;
 }
-.main_container div p span{
+.content_div p span{
     text-decoration: underline;
     font-weight: bold;
 }
 
-@media (max-width:800px){
-    .main_container div{
-        width: 90%;
+@media (max-width:700px){
+    .content_div{
         flex-direction: column;
         justify-content: center;
     }
-    .main_container div img{
+    .content_div img{
         margin: auto;
     }
 }
