@@ -102,12 +102,12 @@ a:hover{color: #fff;text-decoration: underline;}
 /* -------- Footer -------- */
 .footer{
     background-color: #2f2f2f;
+    position: fixed;
+    bottom: 0;
     color: #fff;
     font-size: 18px;
-    position: fixed;
     display: flex;
     justify-content: space-evenly;
-    bottom: 0;
     width: 100%;
     align-items: center;
     border-top: 1px solid #fff;
