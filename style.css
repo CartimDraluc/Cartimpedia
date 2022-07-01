@@ -148,46 +148,45 @@ a:hover{color: #fff;text-decoration: underline;}
 
 
 /* -------- INDEX.HTML -------- */
-/* -------- Alert Section -------- */
-.alert{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    width: 80%;
-    color: #000000;
-    background-color: #f3bc00;
-    margin: auto;
-    padding: 14px;
-    text-align: center;
-    font-size: 25px;
-    letter-spacing: 1px;
-    font-family: 'VT323';
+/* -------- Trending Section -------- */
+.trending_container{
+    padding: 20px;
     border-radius: 10px;
-    animation: bg-change 6s linear infinite;
+    width: 95%;
+    margin: 40px auto;
+    background-color: #f5f5f5;
+    box-shadow: 0 0 10px #000;
 }
-@keyframes bg-change {
-    to{
-        filter: hue-rotate(360deg);
-    }
+.trending_container h1{
+    text-align: center;
 }
-#construct{
-    font-size: 50px;
+.trending_container div{
+    width: 90%;
+    background-color: #333;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 13px;
+    box-shadow: 0 0 10px #000;
 }
-#cog{
-    margin-top: 16px;
-    font-size: 60px;
-    animation: spin 10s linear infinite;
+.trending_container div h1{
+    text-align: center;
+    font-family: monospace;
+    font-weight: 700;
+    color: #fff;
 }
-@keyframes spin{
-    0%{
-        transform: rotate(0deg);
-    }
-    100%{
-        transform: rotate(360deg);
-    }
+.trending_container div p{
+    padding: 10px;
+    color: #fff;
 }
-
+.trending_container div a{
+    display: block;
+    text-align: center;
+    margin: 10px auto;
+    padding: 10px;
+    width: fit-content;
+    background-color: green;
+    color: #fff;
+}
 
 
 /* -------- DISCUSSIONS.HTML -------- */
