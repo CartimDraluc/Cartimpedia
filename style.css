@@ -213,9 +213,11 @@ a:hover{color: #fff;text-decoration: underline;}
 .content_div{
     width: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    flex-direction: column;
 }
 .content_div img{
+    margin: auto;
     width: 150px;
     border-radius: 20px;
 }
