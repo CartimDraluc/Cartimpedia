@@ -284,7 +284,7 @@ tr:nth-child(even){
     box-shadow: 0 0 5px #000000;
 }
 .about_owner p{
-    font-family: cursive,sans-serif;
+    font-family: 'VT323', monospace, sans-serif;
 }
 .about_owner h1{
     font-family: Cinzel,sans-serif;
