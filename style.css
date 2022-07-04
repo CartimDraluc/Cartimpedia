@@ -1,9 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+:root{
+    --primary-white:#fff;
+    --primary-black:#333;
+    --primary-red:#fa1d1d;
+    --primary-blue:#1a1aec;
+    --primary-yellow:#ffff00;
+
+    --dark-black:#000;
+    --dark-yellow:#f3bc00;
+
+    --secondary-black:#2f2f2f;
+}
 
 body{margin:0;padding:0;box-sizing: border-box;}
 h3{text-align: center;}
 a{text-decoration: none;color: #8f8f8f;}
-a:hover{color: #fff;text-decoration: underline;}
+a:hover{color: var(--primary-white);text-decoration: underline;}
 
 /* -------- NAVBAR -------- */
 .topnav {
@@ -17,7 +29,7 @@ a:hover{color: #fff;text-decoration: underline;}
 .topnav a {
     float: left;
     display: block;
-    color: #fff;
+    color: var(--primary-white);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -25,10 +37,10 @@ a:hover{color: #fff;text-decoration: underline;}
 }
 .topnav a:hover {
     background-color: #6f6f6f;
-    color: white;
+    color: var(--primary-white);
 }
 .topnav a.active {
-    background-color: #333;
+    background-color: var(--primary-black);
 }
 .topnav .icon {
     display: none;
@@ -67,7 +79,7 @@ a:hover{color: #fff;text-decoration: underline;}
     display: flex;
     position: relative;
     align-items: center;
-    background-color: #1a1aec;
+    background-color: var(--primary-blue);
 }
 .news_text{
     position: absolute;
@@ -76,8 +88,8 @@ a:hover{color: #fff;text-decoration: underline;}
     left: 0;
     margin: 0;
     font-size: 20px;
-    color: #fff;
-    background-color: #fa1d1d;
+    color: var(--primary-white);
+    background-color: var(--primary-red);
     padding: 8px 20px;
 }
 .news_text::after{
@@ -88,41 +100,41 @@ a:hover{color: #fff;text-decoration: underline;}
     position: absolute;
     top: -1px;
     left: 87px;
-    background-color: #fa1d1d;
+    background-color: var(--primary-red);
 }
 .latest_news_container marquee{
     z-index: 1;
     margin: 0;
     width: 100%;
-    color: #fff;
+    color: var(--primary-white);
     padding: 10px 20px;
     font-family: monospace;
     text-transform: uppercase;
-    background-color: #1a1aec;
+    background-color: var(--primary-blue);
 }
 
 /* -------- Footer -------- */
 .footer{
-    background-color: #2f2f2f;
+    background-color: var(--secondary-black);
     margin-top: 200px;
-    color: #fff;
+    color: var(--primary-white);
     font-size: 18px;
     display: flex;
     justify-content: space-evenly;
     width: 100%;
     align-items: center;
-    border-top: 1px solid #fff;
+    border-top: 1px solid var(--primary-white);
 }
 .footer2{
-    background-color: #2f2f2f;
-    color: #fff;
+    background-color: var(--secondary-black);
+    color: var(--primary-white);
     font-size: 18px;
     display: flex;
     justify-content: space-evenly;
     width: 100%;
     align-items: center;
     padding: 10px 0px 10px 0px;
-    border-top: 1px solid #fff;
+    border-top: 1px solid var(--primary-white);
 }
 @media screen and (max-width:1100px) {
     .footer{font-size: 14px;}
@@ -131,18 +143,18 @@ a:hover{color: #fff;text-decoration: underline;}
 /* -------- FAQ Section -------- */
 .FAQMain{
     border: none;
-    background-color: #2f2f2f;
+    background-color: var(--secondary-black);
     color: #8f8f8f;
 }
 .FAQMain:hover{
-    color: #fff;
+    color: var(--primary-white);
     text-decoration: underline;
 }
 
 #FAQs_container .navbar{
     position: sticky;
     top: 0;
-    background-color: #2f2f2f;
+    background-color: var(--secondary-black);
     display: flex;
     justify-content: center;
     padding: 10px;
@@ -167,28 +179,28 @@ a:hover{color: #fff;text-decoration: underline;}
     width: 80%;
     margin: 40px auto;
     background-color: #f5f5f5;
-    box-shadow: 0 0 10px #000;
+    box-shadow: 0 0 10px var(--dark-black);
 }
 .trending_container h1{
     text-align: center;
 }
 .trending_container div{
     width: 80%;
-    background-color: #333;
+    background-color: var(--primary-black);
     margin: 20px auto;
     padding: 20px;
     border-radius: 13px;
-    box-shadow: 0 0 10px #000;
+    box-shadow: 0 0 10px var(--dark-black);
 }
 .trending_container div h1{
     text-align: center;
     font-family: monospace;
     font-weight: 700;
-    color: #fff;
+    color: var(--primary-white);
 }
 .trending_container div p{
     padding: 10px;
-    color: #fff;
+    color: var(--primary-white);
 }
 .trending_container div a{
     display: block;
@@ -197,14 +209,14 @@ a:hover{color: #fff;text-decoration: underline;}
     padding: 10px;
     width: fit-content;
     background-color: green;
-    color: #fff;
+    color: var(--primary-white);
 }
 
 
 /* -------- DISCUSSIONS.HTML -------- */
 .main_div h1{
     text-align: center;
-    color: #f3bc00;
+    color: var(--dark-yellow);
 }
 .main_div{
     width: 80%;
@@ -213,7 +225,7 @@ a:hover{color: #fff;text-decoration: underline;}
     margin-bottom: 35px;
     padding: 10px;
     border-radius: 10px;
-    background-color: #2f2f2f;
+    background-color: var(--secondary-black);
     position: relative;
 }
 .main_div .RAI{position: absolute;
@@ -234,7 +246,7 @@ a:hover{color: #fff;text-decoration: underline;}
     border-radius: 20px;
 }
 .content_div p{
-    color: #fff;
+    color: var(--primary-white);
     font-size: 18px;
     font-weight: 400;
     padding: 10px;
@@ -258,7 +270,7 @@ a:hover{color: #fff;text-decoration: underline;}
 table, th, td {
     align-items: center;
     margin: 30px auto;
-    border:1px solid black;
+    border:1px solid var(--dark-black);
     border-collapse: collapse;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -266,11 +278,11 @@ table, th, td {
     text-align: center;
 }
 tr:nth-child(odd){
-    background-color: #2f2f2f;
-    color: #fff;
+    background-color: var(--secondary-black);
+    color: var(--primary-white);
 }
 tr:nth-child(even){
-    color: #000;
+    color: var(--dark-black);
 }
 
 /* About Owner Section */
@@ -280,21 +292,23 @@ tr:nth-child(even){
     margin-top: 120px;
     margin-bottom: 200px;
     text-align: center;
-    background-color: #333;
-    color: #fff;
+    background-color: var(--primary-black);
+    color: var(--primary-white);
     border-radius: 10px;
     padding: 7px;
-    box-shadow: 0 0 5px #000000;
+    box-shadow: 0 0 5px var(--dark-black);
 }
 .about_owner p{
-    font-family: 'VT323', monospace, sans-serif;
+    font-family: monospace, sans-serif;
 }
 .about_owner h1{
     font-family: Cinzel,sans-serif;
 }
 .about_owner .rank{
-    color: #ffff00;
+    font-size: 20px;
+    color: var(--primary-yellow);
     cursor: pointer;
+    font-family: 'VT323', monospace, sans-serif;
 }
 .about_owner img{
     width: 350px;
@@ -311,16 +325,19 @@ tr:nth-child(even){
         max-height: 200px;
     }
     .about_owner .rank{
-        color: #ffff00;
+        color: var(--primary-yellow);
     }
 }
 .created_webs{
     text-align: left;
 }
+.created_webs h2{
+    text-align: center;
+}
 .contact_info{
     padding: 10px;
     border-radius: 20px;
     font-size: 20px;
-    background-color: #333;
-    color: #fff;
+    background-color: var(--primary-black);
+    color: var(--primary-white);
 }
