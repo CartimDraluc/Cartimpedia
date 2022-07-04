@@ -11,6 +11,10 @@
 
     --secondary-black:#2f2f2f;
 }
+::selection{
+    color: var(--primary-red);
+    background-color: var(--primary-white);
+}
 
 body{margin:0;padding:0;box-sizing: border-box;}
 h3{text-align: center;}
