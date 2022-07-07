@@ -6,11 +6,11 @@ This explains about how we collect, use and share your personal information thro
 
 ## What information do we collect?
 
-When using our products and services, **we will collect your personal infomation such as IP address, your device type, Browser type, etc...**
+When using our products and services, **we will collect your personal infomation such as IP Address, Browser Type, Operating System, Location and etc...**
 
 ## What information is collected by third parties?
 
-Our products may contain advertising and analytics. The providers of these services are Google, its technology partners and Github. These providers may collect and record information from users' devices, such as: device type, model, IP address, location and...etc.
+Our products may contain advertising and analytics. The providers of these services are Google, its technology partners and Github. These providers may collect and record information from users' devices, such as: device type, model, IP address, Screen Resolution and...etc.
 
 ## With Who else is your information shared?
 
@@ -19,7 +19,7 @@ But in case of emergency which we believe that can harm you and others, we may s
 
 ## Why we collect your personal information?
 
-To contact you. We use your information to contact your about important products or changes to the Policy. When local law requires, we will let you know via email before sharing your information.
+- To contact you. We use your information to contact your about important products or changes to the Policy
 
 ## Changes to This Policy
 
@@ -28,4 +28,4 @@ We will update this policy regularly. When we update this, we will update the da
 
 
 
-*Last updated on 4 July 2022 10:10:05 A.M*
+*Last updated on 7 July 2022 10:31:17 A.M*
