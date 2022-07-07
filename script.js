@@ -32,3 +32,14 @@ $(document).ready(function(){
     $(this).next().find(".panel").slideToggle("slow");
   });
 });
+
+
+// Image Tooltip
+$('text').mousemove(function(e){
+  var y = e.pageY - this.offsetTop;
+  var x = e.pageX - this.offsetLeft;
+  $('.US_flag').css({
+    'left': x + 'px',
+    'top': y + 'px',
+  })
+})

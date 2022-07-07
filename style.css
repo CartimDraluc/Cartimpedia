@@ -23,6 +23,7 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
 
 /* -------- NAVBAR -------- */
 .topnav {
+    border-top: 1px solid var(--primary-white);
     width: 100%;
     overflow: hidden;
     background-color: #4f4f4f;
@@ -325,6 +326,26 @@ tr:nth-child(even){
     padding: 7px;
     box-shadow: 0 0 5px var(--dark-black);
 }
+.about_owner .intro{
+    font-size: 20px;
+}
+.about_owner .intro text{
+    position: relative;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.about_owner .intro text .US_flag{
+    position: absolute;
+    transform: translate();
+    visibility: hidden;
+    z-index: 1;
+    width: 300px;
+    height: 150px;
+    border-radius: 0px;
+}
+.about_owner .intro text:hover .US_flag{
+    visibility: visible;
+}
 .about_owner p{
     font-family: monospace, sans-serif;
 }
@@ -343,6 +364,17 @@ tr:nth-child(even){
     margin-top: 20px;
     border-radius: 30px;
 }
+.about_owner .mission em{
+    font-weight: 700;
+    font-size: 21px;
+    color: #fa1d1d;
+}
+
+.about_owner .intro .html{color: #e34f26;}
+.about_owner .intro .css{color: #1572b6;}
+.about_owner .intro .js{color: #f7df1e;}
+.about_owner .intro text .us_blue{color: #002868;font-weight: 800;background-color: var(--primary-white);text-decoration: underline;}
+.about_owner .intro text .us_red{color: #BF0A30;font-weight: 800;background-color: var(--primary-white);text-decoration: underline;}
 @media screen and (max-width:946px) {
     .about_owner{
         width: 80%;
