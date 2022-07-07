@@ -5,4 +5,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CartimDraluc&theme=blue-green"-->
 <br>
 <img src="https://readme-jokes.vercel.app/api">
+<img src="https://img.shields.io/github/commit-activity/y/CartimDraluc/Cartimpedia">
 </p>
