@@ -5,5 +5,5 @@
 <img src="https://github-profile-trophy.vercel.app/?username=CartimDraluc"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CartimDraluc&theme=blue-green"-->
 <br>
-<img src="https://readme-jokes.vercel.app/api">
+<img src="https://readme-jokes.vercel.app/api"> <img src="https://readme-jokes.vercel.app/api">
 </p>
