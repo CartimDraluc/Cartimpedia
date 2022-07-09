@@ -17,9 +17,9 @@ Our products may contain advertising and analytics. The providers of these servi
 We do not share your personal information with anyone else.
 But in case of emergency which we believe that can harm you and others, we may share your personal information with government.
 
-## Why we collect your personal information?
+<--## Why we collect your personal information?
 
-- To contact you. We use your information to contact your about important products or changes to the Policy
+- To contact you. - We use your information to contact your about important products or changes to the Policy-->
 
 ## Changes to This Policy
 
