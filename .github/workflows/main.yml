@@ -14,3 +14,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.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 }}
+          
+name: Half-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.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 }}
+  base: ""
+  plugin_isocalendar: yes
