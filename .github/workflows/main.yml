@@ -1,0 +1,16 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule:
+    - cron: "0 0 * * *"
+  # (optional) Run workflow when pushing on master/main
+  push:
+    branches:
+      - master
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.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 }}
