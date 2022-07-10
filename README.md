@@ -9,3 +9,8 @@
 <img src="https://readme-jokes.vercel.app/api">
 <img src"https://img.shields.io/github/realese/CartimDraluc/Cartimpedia.svg">
 </p>
+<hr>
+
+<img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/main/assets/metrics.plugin.overview.svg">
+<img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/main/assets/metrics.plugin.isocalendar.fullyear.svg">
+<img src"https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/main/assets/metrics.plugin.wakatime.svg">
