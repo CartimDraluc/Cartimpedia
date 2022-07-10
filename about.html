@@ -9,6 +9,59 @@
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="style.css">
     <title>Cartimpedia | About us</title>
+    <style>
+      *, *:before, *:after {
+        box-sizing: inherit;
+      }
+
+      .column {
+        float: left;
+        width: 33.3%;
+        margin-bottom: 16px;
+        padding: 0 8px;
+      }
+
+      @media screen and (max-width: 650px) {
+        .column {
+          width: 100%;
+          display: block;
+        }
+      }
+
+      .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+      }
+
+      .container {
+        padding: 0 16px;
+      }
+
+      .container::after, .row::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+
+      .title {
+        color: grey;
+      }
+
+      .button {
+        border: none;
+        outline: 0;
+        display: inline-block;
+        padding: 8px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+      }
+
+      .button:hover {
+        background-color: #555;
+      }
+    </style>
 </head>
 <body>
   <div id="main_container">
@@ -39,7 +92,7 @@
         <tr>
           <td>26.5.2022 - 1.8.2022</td>
           <td>Still in development</td>
-          <td>0.9.9</td>
+          <td>0.10.0</td>
           <td>N/A</td>
         </tr>
         <tr>
@@ -50,38 +103,30 @@
         </tr>
       </table>
 
-      <div class="about_owner">
-        <h1>About The Owner</h1><hr>
-        <img title="Owner Profile" src="https://avatars.githubusercontent.com/u/106230817?v=4">
-        <h2>Cartim Draluc</h2>
-        <p class="rank">Novice programmer</p>
-        <p class="intro">Hi! I'm Cartim Draluc, a programmer from <text><span class="us_red"> The</span><span class="us_blue"> United</span><span class="us_red"> States</span><img src="https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg" class="US_flag"></text>. I'm currently learning <span class="html">HTML</span>, <span class="css">CSS</span> and <span class="js">JavaScript</span> from Internet. 
-          I am working hard to study in the Harvard University!
-        </p>
-        <a style="font-size: 20px;" target="_blank" href="https://cartim-draluc.netlify.app/">View Portfolio</a>
-        <hr>
-        <div class="mission">
-          <h2>Our Mission</h2>
-          <p>Our main mission is to <em>RICKROLL YOU!</em><br>
-          Just kidding. To give you tons of information.</p>
-          <hr>
+      <section class="meet_the_team">
+        <h1>Meet The Team</h1>
+        <div class="cards_container">
+
+            <div class="card">
+                <img src="https://avatars.githubusercontent.com/u/106230817?v=4" alt="Cartim">
+                <h2>Cartim Draluc</h2>
+                <p class="role">CEO & Founder</p>
+                <p class="intro">Hi! I'm Cartim Draluc, a programmer from <text><span class="us_red"> The</span><span class="us_blue"> United</span><span class="us_red"> States</span></text>. 
+                  I'm currently learning <span class="html">HTML</span>, <span class="css">CSS</span> and <span class="js">JavaScript</span> from Internet. I am working hard to study in the Harvard University!</p>
+                  <a target="_blank" href="https://cartim-draluc.netlify.app/">View Portfolio</a>
+            </div>
+
+            <div class="card">
+                <img src="https://avatars.githubusercontent.com/u/96227457?s=400&u=2889744fcd08d935786b979fb3f4ff0c2dbbf398&v=4" alt="Robert">
+                <h2>Robert</h2>
+                <p class="role">Developer</p>
+                <p class="intro">I'm Robert. I'm from Myanmar (formerly known as Bruma). I'm also learning 
+                  <span class="html">HTML</span>, <span class="css">CSS</span> and <span class="js">JavaScript</span> as well as <span class="bootstrap">Bootstrap</span>.</p>
+                  <a target="_blank" href="https://challenger7.netlify.app/personalprofile/">View More</a>
+                </div>
+
         </div>
-        <div id="CI" class="contact_info">
-            <h2>Contact Info</h2>
-            <ul style="text-align: left;">
-              <li><a href="#CI" onclick="NA()"><ion-icon name="logo-discord"></ion-icon> Discord</a></li>
-              <li><a target="_blank" href="https://github.com/CartimDraluc"><ion-icon name="logo-github"></ion-icon> GitHub</a></li>
-              <li><a href="#CI" onclick="NA()"><ion-icon name="mail-outline"></ion-icon> Gmail</a></li>
-              <li><a href="#CI" onclick="NA()"><ion-icon name="logo-facebook"></ion-icon> Facebook</a></li>
-            </ul>
-        </div><hr>
-        <div class="created_webs">
-          <h2 style="text-align: center;">Created Websites</h2>
-          <ul style="text-align: left;">
-            <li><a href="https://cartimdraluc.github.io/Cartimpedia/">Cartimpedia</a></li>
-          </ul>
-        </div>
-      </div>
+      </section>
 
       <footer>
         <div class="footer">

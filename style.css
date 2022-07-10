@@ -10,6 +10,7 @@
     --dark-yellow:#f3bc00;
 
     --secondary-black:#2f2f2f;
+    --secondary-white: #f5f5f5;
 }
 ::selection{
     color: var(--primary-red);
@@ -20,6 +21,10 @@ body{margin:0;padding:0;box-sizing: border-box;}
 h3{text-align: center;}
 a{text-decoration: none;color: #8f8f8f;}
 a:hover{color: var(--primary-white);text-decoration: underline;}
+.html{color: #e34f26;}
+.css{color: #1572b6;}
+.js{color: #f7df1e;}
+.bootstrap{ color: #7411f6;}
 
 /* -------- NAVBAR -------- */
 .topnav {
@@ -313,84 +318,63 @@ tr:nth-child(even){
     color: var(--dark-black);
 }
 
-/* About Owner Section */
-.about_owner{
-    width: 40%;
-    margin: 0 auto;
-    margin-top: 120px;
-    margin-bottom: 200px;
-    text-align: center;
-    background-color: var(--primary-black);
-    color: var(--primary-white);
-    border-radius: 10px;
-    padding: 7px;
-    box-shadow: 0 0 5px var(--dark-black);
+/* Meet The Team Section */
+.meet_the_team{
+    width: 100%;
+    align-items: center;
+    margin-top: 100px;
+    background-color: var(--secondary-white);
+    min-height: 100vh;
 }
-.about_owner .intro{
+.meet_the_team h1{
+    padding: 10px;
+    color: var(--primary-white);
+    background-color: var(--primary-black);
+    text-align: center;
+    margin-bottom: 40px;
+}
+.meet_the_team .cards_container{
+        padding: 10px;
+        display: flex;
+        justify-content: space-around;
+}
+.meet_the_team .cards_container .card{
+    text-align: center;
+    width: 270px;
+    color: var(--primary-white);
+    background-color: var(--primary-black);
+    border-radius: 13px;
+    box-shadow: 0 4px 8px 0 var(--dark-black);
+}
+.meet_the_team .cards_container .card img{
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+}
+.meet_the_team .cards_container .card h2{
+    text-align: center;
+}
+.meet_the_team .cards_container .card .role{
+    color: gray;
+    padding: 10px;
+}
+.meet_the_team .cards_container .card .intro{
+    text-align: center;
+    padding: 10px;
     font-size: 20px;
 }
-.about_owner .intro text{
+.meet_the_team .cards_container .card .intro text{
     position: relative;
     text-decoration: underline;
     cursor: pointer;
 }
-.about_owner .intro text .US_flag{
-    position: absolute;
-    transform: translate();
-    visibility: hidden;
-    z-index: 1;
-    width: 300px;
-    height: 150px;
-    border-radius: 0px;
-}
-.about_owner .intro text:hover .US_flag{
-    visibility: visible;
-}
-.about_owner p{
-    font-family: monospace, sans-serif;
-}
-.about_owner h1{
-    font-family: Cinzel,sans-serif;
-}
-.about_owner .rank{
-    font-size: 20px;
-    color: var(--primary-yellow);
-    cursor: pointer;
-    font-family: 'VT323', monospace, sans-serif;
-}
-.about_owner img{
-    width: 350px;
-    height: 350px;
-    margin-top: 20px;
-    border-radius: 30px;
-}
-.about_owner .mission em{
-    font-weight: 700;
-    font-size: 21px;
-    color: #fa1d1d;
-}
-
-.about_owner .intro .html{color: #e34f26;}
-.about_owner .intro .css{color: #1572b6;}
-.about_owner .intro .js{color: #f7df1e;}
-.about_owner .intro text .us_blue{color: #002868;font-weight: 800;background-color: var(--primary-white);text-decoration: underline;}
-.about_owner .intro text .us_red{color: #BF0A30;font-weight: 800;background-color: var(--primary-white);text-decoration: underline;}
-@media screen and (max-width:946px) {
-    .about_owner{
-        width: 80%;
+.meet_the_team .cards_container .card .intro text .us_blue{color: #002868;font-weight: 800;background-color: var(--primary-white);text-decoration: underline;}
+.meet_the_team .cards_container .card .intro text .us_red{color: #BF0A30;font-weight: 800;background-color: var(--primary-white);text-decoration: underline;}
+@media (max-width:700px){
+    .meet_the_team .cards_container{
+        flex-direction: column;
     }
-    .about_owner img{
-        max-width: 200px;
-        max-height: 200px;
+    .meet_the_team .cards_container .card{
+        margin: 20px auto;
     }
-}
-.created_webs{
-    text-align: left;
-}
-.contact_info{
-    padding: 10px;
-    border-radius: 20px;
-    font-size: 20px;
-    background-color: var(--primary-black);
-    color: var(--primary-white);
 }
