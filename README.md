@@ -10,5 +10,3 @@
 <img src"https://img.shields.io/github/realese/CartimDraluc/Cartimpedia.svg">
 </p>
 <hr>
-
-<img align="center" src="https://github.com/NyanKaungSet/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
