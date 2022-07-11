@@ -341,7 +341,7 @@ tr:nth-child(even){
 .meet_the_team .cards_container{
         padding: 10px;
         display: flex;
-        justify-content: space-around;
+        justify-content: space-evenly;
 }
 .meet_the_team .cards_container .card{
     text-align: center;
