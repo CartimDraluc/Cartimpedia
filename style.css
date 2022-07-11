@@ -288,6 +288,11 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
     text-decoration: underline;
     font-weight: bold;
 }
+.content_div ul li{
+    font-size: 20px;
+    color: var(--primary-white);
+    list-style: square;
+}
 
 @media (max-width:700px){
     .content_div{
