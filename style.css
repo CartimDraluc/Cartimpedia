@@ -152,7 +152,7 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
 /* -------- Footer -------- */
 .footer{
     background-color: var(--secondary-black);
-    margin-top: 200px;
+    margin-top: 50px;
     color: var(--primary-white);
     font-size: 18px;
     display: flex;
@@ -207,6 +207,7 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
 }
 
 
+
 /* -------- INDEX.HTML -------- */
 /* -------- Trending Section -------- */
 .trending_container{
@@ -247,6 +248,7 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
     background-color: green;
     color: var(--primary-white);
 }
+
 
 
 /* -------- DISCUSSIONS.HTML -------- */
@@ -306,8 +308,14 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
         margin: auto;
     }
 }
+
+
+
 /* -------- ABOUT.HTML -------- */
 /* Table Section */
+table{
+    box-shadow: 0 4px 8px 0 var(--dark-black);
+}
 table, th, td {
     align-items: center;
     margin: 30px auto;
@@ -319,17 +327,17 @@ table, th, td {
     text-align: center;
 }
 tr:nth-child(odd){
-    background-color: var(--secondary-black);
+    background-color: var(--primary-black);
     color: var(--primary-white);
 }
 tr:nth-child(even){
-    color: var(--dark-black);
+    background-color: #f9f9f9;
+    color: var(--primary-black);
 }
 
 /* Our Story Section */
 .our_story{
     width: 70%;
-    min-height: 100vh;
     padding: 10px;
     margin: 70px auto;
     border-radius: 20px;
@@ -338,6 +346,7 @@ tr:nth-child(even){
     font-family: var(--our-story-font);
     font-size: 19px;
     font-weight: 400;
+    box-shadow: 0 4px 8px 0 var(--dark-black);
 }
 .our_story h1{
     text-align: center;
@@ -348,7 +357,6 @@ tr:nth-child(even){
 .our_story p[rel="first_line"]{
     padding-left: 30px;
 }
-
 .our_story div{
     display: flex;
 }
@@ -363,19 +371,50 @@ tr:nth-child(even){
     }
 }
 
+/* Our Story Section */
+.our_mission{
+    width: 70%;
+    padding: 10px;
+    padding-bottom: 40px;
+    margin: 70px auto;
+    border-radius: 20px;
+    color: var(--primary-white);
+    background-color: var(--primary-black);
+    font-family: var(--our-story-font);
+    font-size: 19px;
+    font-weight: 500;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 var(--dark-black);
+}
+.our_mission p span{
+    color: var(--dark-yellow);
+    font-size: 22px;
+    font-weight: 600;
+}
+.our_mission hr{
+    width: 60%;
+    margin: auto;
+}
+@media (max-width:700px){
+    .our_mission hr{
+        width: 80%;
+    }
+    .our_mission span{
+        display: block;
+    }
+}
 
 /* Meet The Team Section */
 .meet_the_team{
     width: 100%;
     align-items: center;
-    margin-top: 100px;
-    background-color: var(--secondary-white);
+    margin-top: 170px;
     min-height: 100vh;
 }
 .meet_the_team h1{
     padding: 10px;
-    color: var(--primary-white);
-    background-color: var(--primary-black);
+    color: var(--primary-black);
+    background-color: var(--primary-white);
     text-align: center;
     margin-bottom: 40px;
 }
@@ -447,4 +486,62 @@ text:hover .US_flag,.meet_the_team .cards_container .card .intro text:hover .US_
         width: 200px;
         height: 100px;
     }
+}
+
+/* Contact us Section */
+.contact_us{
+    color: var(--primary-white);
+    align-items: center;
+    margin-top: 150px;
+}
+.contact_us h1{
+    padding: 10px;
+    color: var(--primary-black);
+    background-color: var(--secondary-white);
+    text-align: center;
+    margin-bottom: 60px;
+}
+.contact_us h2{
+    color: #e4c046;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-size: 2.5em;
+    font-weight: 600;
+    text-align: center;
+}
+.contact_us .container{
+    width: 100%;
+    padding-bottom:40px;
+    border-radius: 20px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact_us .container form{
+    background-color: var(--primary-black);
+    display: flex;
+    flex-direction: column;
+    padding: 2vw 4vw;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 var(--dark-black);
+}
+.contact_us .container form input,.container form textarea{
+    border: 0;
+    margin: 10px 0;
+    padding: 20px;
+    outline: none;
+    background-color: var(--secondary-white);
+    font-size: 16px;
+}
+.contact_us .container form button{
+    padding: 15px;
+    background-color: #e4c046;
+    font-size: 20px;
+    color: var(--secondary-white);
+    border: 0;
+    outline: none;
+    cursor: pointer;
 }
