@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
 :root{
     --primary-white:#fff;
     --primary-black:#333;
@@ -11,6 +12,8 @@
 
     --secondary-black:#2f2f2f;
     --secondary-white: #f5f5f5;
+
+    --our-story-font:'Edu VIC WA NT Beginner';
 }
 ::selection{
     color: var(--primary-red);
@@ -323,6 +326,44 @@ tr:nth-child(even){
     color: var(--dark-black);
 }
 
+/* Our Story Section */
+.our_story{
+    width: 70%;
+    min-height: 100vh;
+    padding: 10px;
+    margin: 70px auto;
+    border-radius: 20px;
+    color: var(--primary-white);
+    background-color: var(--primary-black);
+    font-family: var(--our-story-font);
+    font-size: 19px;
+    font-weight: 400;
+}
+.our_story h1{
+    text-align: center;
+}
+.our_story p{
+    margin: 0;
+}
+.our_story p[rel="first_line"]{
+    padding-left: 30px;
+}
+
+.our_story div{
+    display: flex;
+}
+.our_story div img{
+    width: 200px;
+    height: 200px;
+}
+@media (max-width:818px){
+    .our_story div{
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+}
+
+
 /* Meet The Team Section */
 .meet_the_team{
     width: 100%;
@@ -339,7 +380,7 @@ tr:nth-child(even){
     margin-bottom: 40px;
 }
 .meet_the_team .cards_container{
-        padding: 10px;
+        padding: 20px;
         display: flex;
         justify-content: space-evenly;
 }
