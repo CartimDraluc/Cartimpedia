@@ -28,4 +28,4 @@ We will update this policy regularly. When we update this, we will update the da
 
 
 
-*Last updated on 9 July 2022 2:36 UTC time*
+*Last updated on 9 July 2022*
