@@ -7,39 +7,20 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="style.css">
-    <title>Cartimpedia</title>
+    <title>Cartimpedia | Memes</title>
 </head>
 <body>
     <div id="main_container">
         <nav class="topnav" id="myTopnav">
-            <a href="index.html" class="active"><ion-icon name="home-outline"></ion-icon> Home</a>
+            <a href="index.html"><ion-icon name="home-outline"></ion-icon> Home</a>
             <a href="discussions.html"><ion-icon name="newspaper-outline"></ion-icon> Posts</a>
-            <a href="memes.html"><ion-icon name="happy-outline"></ion-icon> Memes</a>
+            <a href="memes.html" class="active"><ion-icon name="happy-outline"></ion-icon> Memes</a>
             <a target="_blank" href="https://discord.gg/NGypAKTfga"><ion-icon name="logo-discord"></ion-icon> Discord Server</a>
             <a href="about.html"><strong>i</strong>About</a>
             <a href="javascript:void(0);" class="icon" onclick="navbar()">
                 <ion-icon name="list-outline"></ion-icon>
             </a>
         </nav>
-
-        <div class="DropObjects" aria-hidden="true">
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-      </div>
-      <!--
-        Summer        = ✿ ( rgb(255, 153, 0) )
-        Valentine day = ❤ (red)
-        Winter        = ❆ ,❅ (#fff)
-        Others        = ★ (#fff)
-      -->
     
         <div class="latest_news_container">
             <p class="news_text">NEWS</p>
@@ -48,39 +29,11 @@
             </marquee>
         </div>
 
-        <section class="trending_container">
-          <h1>Trending Now <ion-icon name="trending-up"></ion-icon></h1>
-          <div>
-            <h1>Christopher Columbus</h1>
-            <p>There is an argument about Columbus arrival to New World. For my thesis statement I would like to talk about Christopher 
-              Columbus arrival to America had been more worse than it was...</p>
-            <i style="color: #fff;">Written By Cartim</i>
-            <a href="discussions.html#Christopher_Columbus_Cartim">See More</a>
-          </div>
-
-          <div>
-            <h1>How To Create An Account in Github?</h1>
-            <p>Go to https://github.com/<br>Choose Sign Up<br>Enter Your Email Address</p>
-            <i style="color: #fff;">Written By Robert</i>
-            <a href="discussions.html#Create_Account_Github_Robert">See More</a>
-          </div>
-        </section>
-
         <footer>
-          <div class="footer">
+          <div style="position: fixed;bottom:0;" class="footer">
             <p>© 2022 Cartimpedia</p>
             <button class="FAQMain" id="GoToFAQ">FAQs</button>
             <a target="_blank" href="https://github.com/CartimDraluc/Cartimpedia/blob/main/POLICY.md">Policy</a>
-            
-          </div>
-          <div class="footer2">
-            <!-- BEGIN: Powered by Supercounters.com -->
-            <center>
-              <script type="text/javascript" src="//widget.supercounters.com/ssl/hit.js"></script>
-              <script type="text/javascript">sc_hit(1640785,0,6);</script><br>
-              <noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
-            </center>
-            <!-- END: Powered by Supercounters.com -->
           </div>
         </footer>
     </div>
