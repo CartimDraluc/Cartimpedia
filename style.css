@@ -227,6 +227,7 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
 }*/
 
 
+
 /* -------- INDEX.HTML -------- */
 /* -------- Trending Section -------- */
 .trending_container{
@@ -325,6 +326,23 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
     }
     .content_div img{
         margin: auto;
+    }
+}
+
+
+
+/* -------- MEMES.HTML -------- */
+.memes_container{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+.memes_container img{
+   width: 500px;
+}
+@media (max-width:550px){
+    .memes_container img{
+        width: 200px;
     }
 }
 
