@@ -186,7 +186,10 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
     color: var(--primary-white);
     text-decoration: underline;
 }
-
+#FAQs_container{
+    background-color: var(--primary-white);
+    min-height: 100vh;
+}
 #FAQs_container .navbar{
     position: sticky;
     top: 0;
@@ -206,6 +209,22 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
     display:none;
 }
 
+/* -------- Dark Mode -------- 
+.darkmode{
+    background-color: var(--primary-black);
+    color: var(--primary-white);
+}
+#Darkmode_btn{
+    padding: 10px 21px 10px 21px;
+    background-color: darkcyan;
+    color: var(--primary-white);
+    border: none;
+    border-radius: 20px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 5;
+}*/
 
 
 /* -------- INDEX.HTML -------- */
@@ -252,11 +271,11 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
 
 
 /* -------- DISCUSSIONS.HTML -------- */
-.main_div h1{
+.post h1{
     text-align: center;
     color: var(--dark-yellow);
 }
-.main_div{
+.post{
     width: 80%;
     margin: 0 auto;
     margin-top: 35px;
@@ -266,7 +285,7 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
     background-color: var(--secondary-black);
     position: relative;
 }
-.main_div .RAI{position: absolute;
+.post .RAI{position: absolute;
     right: 7px;
     bottom: 7px;
     font-size:15px;
@@ -538,10 +557,13 @@ text:hover .US_flag,.meet_the_team .cards_container .card .intro text:hover .US_
 }
 .contact_us .container form button{
     padding: 15px;
-    background-color: #e4c046;
+    background-color: #9e8637;
     font-size: 20px;
     color: var(--secondary-white);
     border: 0;
     outline: none;
     cursor: pointer;
+}
+.contact_us .container form button:hover{
+    background-color: #e4c046;
 }
