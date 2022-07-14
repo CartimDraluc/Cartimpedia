@@ -1,7 +1,5 @@
 //Top Navigation Bar
-function iconClick(){
-    location.href="index.html";
-}
+function iconClick(){location.href="index.html";}
 function navbar() {
     var x = document.getElementById("myTopnav");
     if (x.className === "topnav") {
@@ -34,7 +32,6 @@ function DarkMode() {
   element.classList.toggle("darkmode");
   element2.classList.toggle("darkmode");
 }*/
-
 
 
 

@@ -29,7 +29,7 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
 .js{color: #f7df1e;}
 .bootstrap{ color: #7411f6;}
 
-/* -------- NAVBAR -------- */
+/* -------- NAVBAR #6f6f6f-------- */
 .topnav {
     border-top: 1px solid var(--primary-white);
     width: 100%;
@@ -49,11 +49,11 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
     font-size: 17px;
 }
 .topnav a:hover {
-    background-color: #6f6f6f;
-    color: var(--primary-white);
+    background-color: var(--secondary-white);
+    color: var(--primary-black);
 }
 .topnav a.active {
-    background-color: var(--primary-black);
+    background-color: var(--dark-black);
 }
 .topnav .icon {
     display: none;
