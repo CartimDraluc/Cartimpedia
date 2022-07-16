@@ -19,4 +19,6 @@ Hello World, My name is Cartim
 <svg width=100px height=100px>
   <text font-size="40px" x="10" y="40">
     <tspan fill="red">Hello</tspan>
-    <tspan fill="green">World!!!>/tspan>
+    <tspan fill="green">World!!!</tspan>
+  </text>
+</svg>
