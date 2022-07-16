@@ -4,111 +4,116 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="style.css">
-    <title>Cartimpedia</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="shortcut icon" href="https://nyankaungset.github.io/Templates/earth1.png" type="image/x-icon">
+    <title>Fines List | Home</title>
 </head>
 <body>
-    <div id="main_container">
-        <nav class="topnav" id="myTopnav">
-            <a href="index.html" class="active"><ion-icon name="home-outline"></ion-icon> Home</a>
-            <a href="discussions.html"><ion-icon name="newspaper-outline"></ion-icon> Posts</a>
-            <a href="memes.html"><ion-icon name="happy-outline"></ion-icon> Memes</a>
-            <a target="_blank" href="https://discord.gg/NGypAKTfga"><ion-icon name="logo-discord"></ion-icon> Discord Server</a>
-            <a href="about.html"><strong>i</strong>About</a>
-            <a href="javascript:void(0);" class="icon" onclick="navbar()">
-                <ion-icon name="menu-outline"></ion-icon>
-            </a>
-        </nav>
+    <nav class="topnav" id="myTopnav">
+        <a href="index.html" class="active"><ion-icon name="home-outline"></ion-icon> Home</a>
+        <a href="onemonth.html"><ion-icon name="reader-outline"></ion-icon> 1 month</a>
+        <a href="threemonth.html"><ion-icon name="reader-outline"></ion-icon> 3 months</a>
+        <a href="javascript:void(0);" class="icon" onclick="navbar()">
+            <ion-icon name="list-outline"></ion-icon>
+        </a>
+    </nav>
 
-        <div class="DropObjects" aria-hidden="true">
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-          <div class="DropObject">★</div>
-      </div>
-      <!--
-        Summer        = ✿ ( rgb(255, 153, 0) )
-        Valentine day = ❤ (red)
-        Winter        = ❆ ,❅ (#fff)
-        Others        = ★ (#fff)
-      -->
-    
-        <div class="latest_news_container">
-            <p class="news_text">NEWS</p>
-            <marquee behavior="scroll">
-                this website is currently under construction...
-            </marquee>
-        </div>
-
-        <section class="trending_container">
-          <h1>Trending Now <ion-icon name="trending-up"></ion-icon></h1>
-          <div>
-            <h1>Christopher Columbus</h1>
-            <p>There is an argument about Columbus arrival to New World. For my thesis statement I would like to talk about Christopher 
-              Columbus arrival to America had been more worse than it was...</p>
-            <i style="color: #fff;">Written By Cartim</i>
-            <a href="discussions.html#Christopher_Columbus_Cartim">See More</a>
-          </div>
-
-          <div>
-            <h1>How To Create An Account in Github?</h1>
-            <p>Go to https://github.com/<br>Choose Sign Up<br>Enter Your Email Address</p>
-            <i style="color: #fff;">Written By Robert</i>
-            <a href="discussions.html#Create_Account_Github_Robert">See More</a>
-          </div>
-        </section>
-
-        <footer>
-          <div class="footer">
-            <p>© 2022 Cartimpedia</p>
-            <button class="FAQMain" id="GoToFAQ">FAQs</button>
-            <a target="_blank" href="https://github.com/CartimDraluc/Cartimpedia/blob/main/POLICY.md">Policy</a>
-            
-          </div>
-          <div class="footer2">
-            <!-- BEGIN: Powered by Supercounters.com -->
-            <center>
-              <script type="text/javascript" src="//widget.supercounters.com/ssl/hit.js"></script>
-              <script type="text/javascript">sc_hit(1640785,0,6);</script><br>
-              <noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
-            </center>
-            <!-- END: Powered by Supercounters.com -->
-          </div>
-        </footer>
-    </div>
+    <h1>july month</h1>
+    <input type="text" id="Input" onkeyup="TableSearch()" placeholder="🔍 Search names.." title="Search names">
+    <div class="table_container">
+      <table id="Table" style="width: 1096px;margin: auto;">
+        <caption>Monthy Attendance Table</caption>
+        <tr class="header">
+          <th style="width:330px;">Name</th>
+          <th style="width:164px;">First Week</th>
+          <th style="width:164px;">Second Week</th>
+          <th style="width:164px;">Third Week</th>
+          <th style="width:164px;">Fourth Week</th>
+          <th style="width:110px">Total</th>
+        </tr>
   
-    <div id="FAQs_container">
-      <div class="navbar">
-        <button class="FAQMain" id="BackToMain">Back To Main</button>
-      </div>
-
-      <h1 class="flip">Title<h1>
-          <div class="panel">
-        <p>Description that slides down</p>
-          </div><hr>
+        <tr>
+          <td>Cho Mon Ko</td>
+          <td>Attended</td>
+          <td>Not Attended</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
   
-      <h1 class="flip">Title<h1>
-          <div class="panel">
-        <p>description that slide down</p>
-          </div><hr>
-          
-      <h1 class="flip">Title<h1>
-      <div class="panel">
-        <p>Description that slides down</p>
-      </div><hr>
+        <tr>
+          <td>Hlaing May Myint</td>
+          <td>Attended</td>
+          <td>Attended</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
   
-      <h1 class="flip">Title<h1>
-      <div class="panel">
-        <p>description that slide down</p>
-      </div><hr>
+        <tr>
+          <td>Kyi Sin Thant</td>
+          <td>Attended</td>
+          <td>Attended</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+  
+        <tr>
+          <td>Nyan Kaung Set</td>
+          <td>Attended</td>
+          <td>Attended</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+  
+        <tr>
+          <td>Sit Nay La</td>
+          <td>Not Attended</td>
+          <td>Attended</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+  
+        <tr>
+          <td>Swan Htet Lin</td>
+          <td>Attended</td>
+          <td>Attended</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+  
+        <tr>
+          <td>Thwin Yadanar San</td>
+          <td>Attended</td>
+          <td>Attended</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+  
+        <tr>
+          <td>Thwin Yadanar Soe</td>
+          <td>Attended</td>
+          <td>Attended</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+  
+        <tr>
+          <td>Yadanar Linpin</td>
+          <td>Attended</td>
+          <td>Attended</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </table>
     </div>
 
     <script src="script.js"></script>
@@ -116,3 +121,14 @@
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </body>
 </html>
+
+
+
+<!--tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr-->
