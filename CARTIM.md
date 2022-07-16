@@ -1,4 +1,4 @@
-Hello World, My name is Cartim
+# Hello World, My name is Cartim
 <p align=center><img src="https://cartim-draluc.netlify.app/pixlr-bg-result.png" width=500px height=600px></p>
 <details>
 <summary>Stats</summary>
@@ -14,5 +14,3 @@ Hello World, My name is Cartim
 <img src="https://readme-jokes.vercel.app/api">
 </p>
 <hr>
-
-`#fff`
