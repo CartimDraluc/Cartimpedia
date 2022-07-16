@@ -1,5 +1,3 @@
-<img src="https://pbs.twimg.com/media/EACSL_pXYAIjAau.jpg">
-
 <details>
 <summary>Stats</summary><!--989395034220658718-->
 <p align=center>
