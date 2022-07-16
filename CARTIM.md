@@ -1,6 +1,6 @@
-<h1 align='center'> Hello World, My name is Cartim, A :beginner: Beginner :blush: </h1>
-<p align=center><img src="https://cartim-draluc.netlify.app/pixlr-bg-result.png" width=500px height=600px></p>
-<i align='center'>I was holding a :knife: in the picture :smiling_imp:</i>
+<h1 align='center'> Hello World! I'm Cartim, An Absolute :beginner: Beginner :blush: </h1>
+<p align=center><img src="https://cartim-draluc.netlify.app/pixlr-bg-result.png" width=500px height=300px></p>
+<p align='center'><i>I was holding a :knife: in the picture :smiling_imp:</i></p><hr>
 <h3 align='center'>Currently Learning :</h3>
 <p align='center'> <img src="https://img.shields.io/badge/Nothing-323330?style=for-the-badge&logo=nothing&logoColor=F7DF1E"></p>
 <br>
@@ -8,8 +8,7 @@
 <h3 align='center'>My Workspace :computer:</h3>
 <p align='center'><img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
 
-<br><hr>
-
+<hr>
 <details>
     <summary>Github Statistics</summary>
     <p align=center>
