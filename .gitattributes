@@ -1,7 +1,3 @@
 # Markdown
 *.md linguist-detectable=true
 *.md linguist-documentation=false
-
-# Python
-*.py linguist-detectable=true
-*.py linguist-documentation=false
