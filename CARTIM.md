@@ -10,12 +10,17 @@
 
 <hr>
 <details>
-    <summary>Github Statistics</summary>
+    <summary>:chart_with_upwards_trend: Github Profile Summary Card</summary>
     <p align=center>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CartimDraluc&theme=vue">
+    </p>
+</details>
+<hr>
+<details>
+    <summary>:bar_chart: Github Statistics</summary>
+    <p align=center>
         <img src="https://github-readme-stats.vercel.app/api?username=CartimDraluc&theme=blue-green"> 
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=CartimDraluc&theme=blue-green"> <br>
-        <img src="https://github-profile-trophy.vercel.app/?username=CartimDraluc"><br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CartimDraluc&theme=blue-green">
     </p>
 </details>
