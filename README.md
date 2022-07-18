@@ -22,14 +22,14 @@
     </p>
 </details>
 <hr>
-<details align=right>
+<details align=left>
     <summary>Nyan Kaung Set</summary>
-        <img align=right src="https://avatars.githubusercontent.com/u/96227457?s=318&u=2889744fcd08d935786b979fb3f4ff0c2dbbf398&v=4">
-    <p align=left>
+        <img align=left src="https://avatars.githubusercontent.com/u/96227457?s=318&u=2889744fcd08d935786b979fb3f4ff0c2dbbf398&v=4">
+    <p align=right>
         I'm Nyan Kaung Set. I'm from Myanmar (formerly known as Bruma). I'm also learning HTML, CSS and JavaScript as well as Bootstrap.
     </p>
-    <hr>
 </details>
+<hr>
 
 
 <br><br>
