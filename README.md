@@ -5,5 +5,10 @@
 <a href="#Intro">Introduction</a>
 <a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/POLICY.md">Privacy Policy</a>
 
+# Table of Contents
+
+1. [Introduction](#Intro)
+2. [Privacy Policy](#https://github.com/CartimDraluc/Cartimpedia/blob/main/POLICY.md)
+
 # Introduction (#Intro)
 <!--v 0.17.1-->
