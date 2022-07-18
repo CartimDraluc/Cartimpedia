@@ -18,12 +18,14 @@
     <summary>Cartim Draluc</summary>
     <p align=left>
         <img src="https://avatars.githubusercontent.com/u/106230817?v=4">
+        Hi! I'm Cartim Draluc, a programmer from The United States. I'm currently learning HTML, CSS and JavaScript from Internet. I am working hard to study in the Harvard University!
     </p>
 </details>
 <details align=right>
     <summary>Nyan Kaung Set</summary>
     <p align=right>
         <img src="https://avatars.githubusercontent.com/u/96227457?s=318&u=2889744fcd08d935786b979fb3f4ff0c2dbbf398&v=4">
+        I'm Nyan Kaung Set. I'm from Myanmar (formerly known as Bruma). I'm also learning HTML, CSS and JavaScript as well as Bootstrap.
     </p>
 </details>
 
