@@ -6,14 +6,16 @@
 1. [Introduction](#Intro)
 2. <a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/POLICY.md">Privacy Policy</a>
 3. [About us](#AboutUs)
-    1.1 [Our Story](#OurStory)
-    1.2. [Our Team](#OurTeam)
+    1. [Our Story](#OurStory)
+    2. [Our Team](#OurTeam)
 
 # Introduction <a id="Intro"></a>
 
 # About Us <a id="AboutUS"></a>
 ## Our Story <a id="OurStory"></a>
 ## Our Team <a id="OurTeam"></a>
-<img src="https://opencollective.com/Cartimpedia/contributors.svg?width=890&button=false">
+<a href="https://github.com/CartimDraluc/Cartimpedia">
+  <img src="https://contrib.rocks/image?repo=CartimDraluc/Cartimpedia"/>
+</a>
 
 <!--v 0.17.1-->
