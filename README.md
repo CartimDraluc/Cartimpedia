@@ -7,7 +7,7 @@
     1. <a href="#Intro">Introduction</a>
 2. <a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/POLICY.md">Privacy Policy</a>
 
-# Introduction <a href="#Intro"></a>
+# Introduction <a id="#Intro"></a>
 Ea aute qui commodo laborum amet veniam magna tempor in. Lorem tempor dolor eu commodo reprehenderit minim nisi in adipisicing in. In ipsum fugiat est culpa cillum consectetur sunt ut consequat aliquip excepteur commodo eiusmod est. Cillum mollit laboris proident labore cupidatat.
 
 Laborum ex aute ad minim aliqua laborum. Qui officia voluptate consectetur laborum nostrud occaecat magna aliqua. Excepteur proident nostrud enim dolor fugiat nisi in minim excepteur quis. Incididunt officia sunt nostrud enim minim ullamco. Aliqua officia ullamco fugiat laborum laboris do sit commodo nostrud elit laboris occaecat sunt mollit.
