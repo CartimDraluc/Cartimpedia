@@ -14,8 +14,6 @@
 # About Us <a id="AboutUS"></a>
 ## Our Story <a id="OurStory"></a>
 ## Our Team <a id="OurTeam"></a>
-<a href="https://github.com/CartimDraluc/Cartimpedia">
-  <img src="https://contrib.rocks/image?repo=CartimDraluc/Cartimpedia"/>
-</a>
+<img src="https://contrib.rocks/image?repo=CartimDraluc/Cartimpedia"/>
 
 <!--v 0.17.1-->
