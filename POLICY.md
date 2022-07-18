@@ -6,7 +6,7 @@ This explains about how we collect, use and share your personal information thro
 
 ## What information do we collect?
 
-When using our products and services, **we will collect your personal infomation such as IP Address, Browser Type, Operating System, Location and etc...**
+When using our products and services, **we will collect your personal infomation such as IP Address, Browser Type, Operating System and Location.**
 
 ## What information is collected by third parties?
 
@@ -15,7 +15,7 @@ Our products may contain advertising and analytics. The providers of these servi
 ## With Who else is your information shared?
 
 We do not share your personal information with anyone else.
-But in case of emergency which we believe that can harm you and others, we may share your personal information with government.
+But in case of emergency which we believe that can harm you and others, we may share your personal information with law enforcement entities.
 
 <!--## Why we collect your personal information?
 
@@ -27,4 +27,4 @@ We will update this policy regularly. When we update this, we will update the da
 
 
 
-*Last updated on 9 July 2022*
+*Last updated on 18 July 2022*
