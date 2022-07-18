@@ -16,18 +16,19 @@
 ## Our Team <a id="OurTeam"></a>
 <details align=left>
     <summary>Cartim Draluc</summary>
-    <p align=center>
+    <p align=left>
         <img src="https://avatars.githubusercontent.com/u/106230817?v=4">
     </p>
 </details>
 <details align=right>
     <summary>Nyan Kaung Set</summary>
-    <p align=center>
+    <p align=right>
         <img src="https://avatars.githubusercontent.com/u/96227457?s=318&u=2889744fcd08d935786b979fb3f4ff0c2dbbf398&v=4">
     </p>
 </details>
 
 
+<br><br>
 <img src="https://contrib.rocks/image?repo=CartimDraluc/Cartimpedia"/>
 
 <!--v 0.17.1-->
