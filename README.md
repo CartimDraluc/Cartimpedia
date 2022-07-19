@@ -14,18 +14,18 @@
 # About Us <a id="AboutUS"></a>
 ## Our Story <a id="OurStory"></a>
 ## Our Team <a id="OurTeam"></a>
-<details align=left>
+<details align=center>
     <summary>Cartim Draluc</summary>
-        <img align=left src="https://avatars.githubusercontent.com/u/106230817?v=4">
-    <p align=right>
+        <img src="https://avatars.githubusercontent.com/u/106230817?v=4">
+    <p>
         Hi! I'm Cartim Draluc, a programmer from The United States. I'm currently learning HTML, CSS and JavaScript from Internet. I am working hard to study in the Harvard University!
     </p>
 </details>
 <hr>
-<details align=left>
+<details align=center>
     <summary>Nyan Kaung Set</summary>
-        <img align=left src="https://avatars.githubusercontent.com/u/96227457?s=318&u=2889744fcd08d935786b979fb3f4ff0c2dbbf398&v=4">
-    <p align=right>
+        <img src="https://avatars.githubusercontent.com/u/96227457?s=318&u=2889744fcd08d935786b979fb3f4ff0c2dbbf398&v=4">
+    <p>
         I'm Nyan Kaung Set. I'm from Myanmar (formerly known as Bruma). I'm also learning HTML, CSS and JavaScript as well as Bootstrap.
     </p>
 </details>
