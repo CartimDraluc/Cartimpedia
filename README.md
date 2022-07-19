@@ -17,28 +17,10 @@
 
 <table align=center>
   <tr>
-    <td align="center"><a href="https://github.com/CartimDraluc"><img src="https://avatars.githubusercontent.com/u/106230817?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Cartim Draluc</b></sub></a><br /><a href="" title="Ideas, Planning and Feedback">:thinking:</a> <a href="" title="Beginner">:beginner:</a></td>
-    <td align="center"><a href="https://github.com/NyanKaungSet"><img src="https://avatars.githubusercontent.com/u/96227457?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Nyan Kaung Set</b></sub></a><br /><a href="" title="code">:computer:</a> <a href="" title="Bug Fix">:bug:</a></td>
+    <td align="center"><a href="https://github.com/CartimDraluc"><img src="https://avatars.githubusercontent.com/u/106230817?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Cartim Draluc</b></sub></a><br /><a href="" title="CEO">:man_office_worker: :man_in_tuxedo:</a> <a href="" title="Ideas, Planning and Feedback">:thinking:</a> <a href="" title="From USA">:usa:</a></td>
+    <td align="center"><a href="https://github.com/NyanKaungSet"><img src="https://avatars.githubusercontent.com/u/96227457?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Nyan Kaung Set</b></sub></a><br /><a href="" title="Member">:bug:</a> <a href="" title="code">:computer:</a> <a href="" title="Bug Fix">:bug:</a> <a href="" title="From Myanmar">:myanmar:</a></td>
   </tr>
 </table>
-
-
-<details align=center>
-    <summary>Cartim Draluc (CEO & Founder)</summary><br>
-        <img src="https://avatars.githubusercontent.com/u/106230817?v=4">
-    <p>
-        Hi! I'm Cartim Draluc, a programmer from The United States. I'm currently learning HTML, CSS and JavaScript from Internet. I am working hard to study in the Harvard University!
-    </p>
-</details>
-<hr>
-<details align=center>
-    <summary>Nyan Kaung Set (Developer)</summary><br>
-        <img src="https://avatars.githubusercontent.com/u/96227457?s=318&u=2889744fcd08d935786b979fb3f4ff0c2dbbf398&v=4">
-    <p>
-        I'm Nyan Kaung Set. I'm from Myanmar (formerly known as Bruma). I'm also learning HTML, CSS and JavaScript as well as Bootstrap.
-    </p>
-</details>
-<hr>
 
 
 <br><br>
