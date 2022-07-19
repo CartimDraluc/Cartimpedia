@@ -17,7 +17,7 @@
 <h1 align=center>About Us</h1><a id="AboutUS"></a>
 
 ## Our Story <a id="OurStory"></a>
-Our website has founded since May 26 2022(*The same day <img align=center src="https://img.shields.io/badge/Sally_Ride-0b3d91?style=for-the-badge&logo=nasa&logoColor=white">  was born* :rocket:). We're planning to release the very first version on August 1st 2022. It can be delay due to some reasons but we're doing our best to release on time :wink:!
+Our website has founded since May 26 2022(*The same day <img align=center src="https://img.shields.io/badge/Sally_Ride-0b3d91?style=for-the-badge&logo=nasa&logoColor=white">  was born* :rocket:). We're planning to release the very first version on August the 1st 2022. It can be delay due to some reasons but we're doing our best to release on time :wink:!
 ## Our Team <a id="OurTeam"></a>
 
 <table align=center>
@@ -25,7 +25,8 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
     <td align="center"><a href="https://github.com/CartimDraluc"><img src="https://avatars.githubusercontent.com/u/106230817?s=120&v=4" width="120px;" alt=""/><br /><b>Cartim Draluc</b></a><br /><a href="" title="Founder">:man_in_tuxedo:</a> <a href="" title="Ideas, Planning and Feedback">:thinking:</a> <a href="" title="From USA">:us:</a><br><sub><a href="https://cartim-draluc.netlify.app/">View More</a></sub></td>
     <td align="center"><a href="https://github.com/NyanKaungSet"><img src="https://avatars.githubusercontent.com/u/96227457?s=120&v=4" width="120px;" alt=""/><br /><b>Nyan Kaung Set</b></a><br /><a href="" title="Co-founder">:man_office_worker:</a> <a href="" title="code">:computer:</a> <a href="" title="Bugs Fix">:bug:</a> <a href="" title="From Myanmar">:myanmar:</a><br><sub><a href="https://challenger7.netlify.app/personalprofile/">View More</a></sub></td>
   </tr>
-</table>
+</table><br>
+<p align=center><i>We're not currently accepting new members, but we will accept very soon!:hugs:</i><p>
 
 
 <br><br>
