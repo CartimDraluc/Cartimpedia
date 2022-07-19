@@ -29,7 +29,7 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
     <td align="center"><a href="https://github.com/NyanKaungSet"><img src="https://avatars.githubusercontent.com/u/96227457?s=120&v=4" width="120px;" alt=""/><br /><b>Nyan Kaung Set</b></a><br /><a href="" title="Co-founder">:man_office_worker:</a> <a href="" title="code">:computer:</a> <a href="" title="Bugs Fix">:bug:</a> <a href="" title="From Myanmar">:myanmar:</a><br><sub><a href="https://challenger7.netlify.app/personalprofile/">View More</a></sub></td>
   </tr>
 </table><br>
-<p align=center><i>We're not currently accepting new members :pleading_face:, but we will accept very, very soon!:hugs:</i><p><hr>
+<p align=center><i>We're not currently accepting new members :pleading_face:, but we will accept very, very soon!:hugs:</i><p>
 
 ## Long Term Plans <a id="LongTermPlans"></a>
 <table align=center>
@@ -54,6 +54,7 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
 </table>
 <p align=center><i><b>Your ideas:bulb:,thoughts:thought_balloon: and opinions:page_facing_up: are always welcomed! We want to hear from you :smiling_face_with_three_hearts:!</b></i></p>
 <p align=center><i>If you do have, please fill this form: <a href="https://cartimdraluc.github.io/Cartimpedia/about.html#contact_us">Get in touch</a>. Put "My Idea, thought" in "Title". We will reply within a few hours:hourglass_flowing_sand:!</i></p>
+<hr>
 
 <br><br>
 <!--img src="https://contrib.rocks/image?repo=CartimDraluc/Cartimpedia"/-->
