@@ -8,14 +8,15 @@
 3. [About us](#AboutUs)
     1. [Our Story](#OurStory)
     2. [Our Team](#OurTeam)
+    3. [Long Term Plans](#LongTermPlans)
 
 
 
-<p align=center><img width=700px height=80px src="https://img.shields.io/badge/introduction-0b3d91?style=for-the-badge&logoColor=white"></p><a id="Intro"></a>
+<p id="Intro" align=center><img width=700px height=80px src="https://img.shields.io/badge/introduction-0b3d91?style=for-the-badge&logoColor=white"></p>
 <hr>
 
 
-<p align=center><img width=500px height=80px src="https://img.shields.io/badge/About_us-0b3d91?style=for-the-badge&logoColor=white"></p><a id="AboutUS"></a>
+<p id="AboutUS" align=center><img width=500px height=80px src="https://img.shields.io/badge/About_us-0b3d91?style=for-the-badge&logoColor=white"></p>
 
 ## Our Story <a id="OurStory"></a>
 Our website has founded since May 26 2022(*The same day <img align=center src="https://img.shields.io/badge/Sally_Ride-0b3d91?style=for-the-badge&logo=nasa&logoColor=white">  was born* :rocket:). We're planning to release the very first version on August the 1st 2022. It can be delay due to some difficulties but we're doing our best to release on time :wink:!
@@ -30,6 +31,27 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
 </table><br>
 <p align=center><i>We're not currently accepting new members :pleading_face:, but we will accept very, very soon!:hugs:</i><p><hr>
 
+## Long Term Plans <a id="LongTermPlans"></a>
+<table align=center>
+  <tr>
+    <th>Name</th>
+    <th>Will Be Add on</th>
+    <th>Status</th>
+    <th>Advised By</th>
+  </tr>
+  <tr>
+    <td>Discussion Channels</td>
+    <td>undefined</td>
+    <td>Proposed</td>
+    <td>Cartim Draluc</td>
+  </tr>
+  <tr>
+    <td>Connect With Firebase:fire:</td>
+    <td>undefined</td>
+    <td>Proposed</td>
+    <td>Nyan Kaung Set</td>
+  </tr>
+</table>
 
 <br><br>
 <!--img src="https://contrib.rocks/image?repo=CartimDraluc/Cartimpedia"/-->
