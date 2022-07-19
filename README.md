@@ -52,8 +52,8 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
     <td>Nyan Kaung Set</td>
   </tr>
 </table>
-<p align=center><em>Your ideas:bulb:,thoughts:thought_balloon: and opinions:page_facing_up: are warmly welcomed! We want to hear from you :smiling_face_with_three_hearts:!</em></p>
-<p align=center><i>If you do have, please fill this form: <a href="https://cartimdraluc.github.io/Cartimpedia/about.html#contact_us">Get in touch</a></i>. Put "My Idea, thought" in "Title". We will reply within a few hours:hourglass_flowing_sand:!</p>
+<p align=center><i><b>Your ideas:bulb:,thoughts:thought_balloon: and opinions:page_facing_up: are always welcomed! We want to hear from you :smiling_face_with_three_hearts:!</b></i></p>
+<p align=center><i>If you do have, please fill this form: <a href="https://cartimdraluc.github.io/Cartimpedia/about.html#contact_us">Get in touch</a>. Put "My Idea, thought" in "Title". We will reply within a few hours:hourglass_flowing_sand:!</i></p>
 
 <br><br>
 <!--img src="https://contrib.rocks/image?repo=CartimDraluc/Cartimpedia"/-->
