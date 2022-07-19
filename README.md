@@ -8,14 +8,15 @@
 3. [About us](#AboutUs)
     1. [Our Story](#OurStory)
     2. [Our Team](#OurTeam)
+    3. [Long Term Plans](#LongTermPlans)
 
 
 
-<p align=center><img width=700px height=80px src="https://img.shields.io/badge/introduction-0b3d91?style=for-the-badge&logoColor=white"></p><a id="Intro"></a>
+<p id="Intro" align=center><img width=700px height=80px src="https://img.shields.io/badge/introduction-0b3d91?style=for-the-badge&logoColor=white"></p>
 <hr>
 
 
-<p align=center><img width=500px height=80px src="https://img.shields.io/badge/About_us-0b3d91?style=for-the-badge&logoColor=white"></p><a id="AboutUS"></a>
+<p id="AboutUS" align=center><img width=500px height=80px src="https://img.shields.io/badge/About_us-0b3d91?style=for-the-badge&logoColor=white"></p>
 
 ## Our Story <a id="OurStory"></a>
 Our website has founded since May 26 2022(*The same day <img align=center src="https://img.shields.io/badge/Sally_Ride-0b3d91?style=for-the-badge&logo=nasa&logoColor=white">  was born* :rocket:). We're planning to release the very first version on August the 1st 2022. It can be delay due to some difficulties but we're doing our best to release on time :wink:!
@@ -28,8 +29,32 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
     <td align="center"><a href="https://github.com/NyanKaungSet"><img src="https://avatars.githubusercontent.com/u/96227457?s=120&v=4" width="120px;" alt=""/><br /><b>Nyan Kaung Set</b></a><br /><a href="" title="Co-founder">:man_office_worker:</a> <a href="" title="code">:computer:</a> <a href="" title="Bugs Fix">:bug:</a> <a href="" title="From Myanmar">:myanmar:</a><br><sub><a href="https://challenger7.netlify.app/personalprofile/">View More</a></sub></td>
   </tr>
 </table><br>
-<p align=center><i>We're not currently accepting new members :pleading_face:, but we will accept very, very soon!:hugs:</i><p><hr>
+<p align=center><i>We're not currently accepting new members :pleading_face:, but we will accept very, very soon!:hugs:</i><p>
 
+## Long Term Plans <a id="LongTermPlans"></a>
+<table align=center>
+  <tr>
+    <th>Name</th>
+    <th>Will Be Add on</th>
+    <th>Status</th>
+    <th>Advised By</th>
+  </tr>
+  <tr>
+    <td>Discussion Channels</td>
+    <td>undefined</td>
+    <td>Proposed</td>
+    <td>Cartim Draluc</td>
+  </tr>
+  <tr>
+    <td>Connect With Firebase:fire:</td>
+    <td>undefined</td>
+    <td>Proposed</td>
+    <td>Nyan Kaung Set</td>
+  </tr>
+</table>
+<p align=center><i><b>Your ideas:bulb:,thoughts:thought_balloon: and opinions:page_facing_up: are always welcomed! We want to hear from you :smiling_face_with_three_hearts:!</b></i></p>
+<p align=center><i>If you do have, please fill this form: <a href="https://cartimdraluc.github.io/Cartimpedia/about.html#contact_us">Get in touch</a>. Put "My Idea, thought" in "Title". We will reply within a few hours:hourglass_flowing_sand:!</i></p>
+<hr>
 
 <br><br>
 <!--img src="https://contrib.rocks/image?repo=CartimDraluc/Cartimpedia"/-->
