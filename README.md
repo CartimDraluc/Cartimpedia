@@ -33,8 +33,8 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/CartimDraluc"><img src="https://avatars.githubusercontent.com/u/96227457?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Nyan Kaung Set</b></sub></a><br /><a href="" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/NyanKaungSet"><img src="https://avatars.githubusercontent.com/u/106230817?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Nyan Kaung Set</b></sub></a><br /><a href="" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/CartimDraluc"><img src="https://avatars.githubusercontent.com/u/106230817?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Cartim Draluc</b></sub></a><br /><a href="" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/NyanKaungSet"><img src="https://avatars.githubusercontent.com/u/96227457?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Nyan Kaung Set</b></sub></a><br /><a href="" title="Design">🎨</a></td>
   </tr>
 </table>
 
