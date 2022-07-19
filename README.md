@@ -11,8 +11,12 @@
 
 # Introduction <a id="Intro"></a>
 
+<hr>
+
+
 # About Us <a id="AboutUS"></a>
 ## Our Story <a id="OurStory"></a>
+Our website has founded since May 26 2022(The same day Sally Ride born).
 ## Our Team <a id="OurTeam"></a>
 
 <table align=center>
