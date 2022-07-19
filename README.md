@@ -14,6 +14,15 @@
 # About Us <a id="AboutUS"></a>
 ## Our Story <a id="OurStory"></a>
 ## Our Team <a id="OurTeam"></a>
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/CartimDraluc"><img src="https://avatars.githubusercontent.com/u/106230817?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Cartim Draluc</b></sub></a><br /><a href="" title="Ideas, Planning and Feedback">:thinking:</a></td>
+    <td align="center"><a href="https://github.com/NyanKaungSet"><img src="https://avatars.githubusercontent.com/u/96227457?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Nyan Kaung Set</b></sub></a><br /><a href="" title="code">:computer:</a> <a href="" title="Bug Fix">:bug:</a></td>
+  </tr>
+</table>
+
+
 <details align=center>
     <summary>Cartim Draluc (CEO & Founder)</summary><br>
         <img src="https://avatars.githubusercontent.com/u/106230817?v=4">
@@ -30,13 +39,6 @@
     </p>
 </details>
 <hr>
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/CartimDraluc"><img src="https://avatars.githubusercontent.com/u/106230817?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Cartim Draluc</b></sub></a><br /><a href="" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/NyanKaungSet"><img src="https://avatars.githubusercontent.com/u/96227457?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Nyan Kaung Set</b></sub></a><br /><a href="" title="Design">🎨</a></td>
-  </tr>
-</table>
 
 
 <br><br>
