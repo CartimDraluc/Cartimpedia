@@ -16,7 +16,7 @@
 
 # About Us <a id="AboutUS"></a>
 ## Our Story <a id="OurStory"></a>
-Our website has founded since May 26 2022(*The same day <img align=center src="https://img.shields.io/badge/Sally_Ride-0b3d91?style=for-the-badge&logo=nasa&logoColor=white">  was born*).
+Our website has founded since May 26 2022(*The same day <img align=center src="https://img.shields.io/badge/Sally_Ride-0b3d91?style=for-the-badge&logo=nasa&logoColor=white">  was born* :rocket:).
 ## Our Team <a id="OurTeam"></a>
 
 <table align=center>
