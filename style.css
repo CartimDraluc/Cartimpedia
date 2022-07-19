@@ -399,21 +399,20 @@ tr:nth-child(even){
 .our_story p[rel="first_line"]{
     padding-left: 30px;
 }
-.our_story div{
-    display: flex;
-}
-.our_story div img{
+.our_story img{
     width: 200px;
     height: 200px;
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
 }
 @media (max-width:818px){
-    .our_story div{
-        justify-content: center;
-        flex-wrap: wrap;
+    .our_story{
+        width: 80%;
     }
 }
 
-/* Our Story Section */
+/* Our Mission Section */
 .our_mission{
     width: 70%;
     padding: 10px;
