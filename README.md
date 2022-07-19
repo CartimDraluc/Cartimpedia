@@ -17,7 +17,7 @@
 <h1 align=center>About Us</h1><a id="AboutUS"></a>
 
 ## Our Story <a id="OurStory"></a>
-Our website has founded since May 26 2022(*The same day <img align=center src="https://img.shields.io/badge/Sally_Ride-0b3d91?style=for-the-badge&logo=nasa&logoColor=white">  was born* :rocket:). We're planning to release the very first version on August 1st 2022. It can be delay due to some reasons but we will do our best!
+Our website has founded since May 26 2022(*The same day <img align=center src="https://img.shields.io/badge/Sally_Ride-0b3d91?style=for-the-badge&logo=nasa&logoColor=white">  was born* :rocket:). We're planning to release the very first version on August 1st 2022. It can be delay due to some reasons but we're doing our best to release on time :wink:!
 ## Our Team <a id="OurTeam"></a>
 
 <table align=center>
