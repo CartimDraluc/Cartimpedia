@@ -11,11 +11,11 @@
 
 
 
-# Introduction <a id="Intro"></a>
+<h1 align=center>Introduction</h1><a id="Intro"></a>
 <hr>
 
 
-<p align=center><img width=700px height=100px src="https://img.shields.io/badge/About_us-0b3d91?style=for-the-badge&logoColor=white"></p><a id="AboutUS"></a>
+<p align=center><img width=700px height=80px src="https://img.shields.io/badge/About_us-0b3d91?style=for-the-badge&logoColor=white"></p><a id="AboutUS"></a>
 
 ## Our Story <a id="OurStory"></a>
 Our website has founded since May 26 2022(*The same day <img align=center src="https://img.shields.io/badge/Sally_Ride-0b3d91?style=for-the-badge&logo=nasa&logoColor=white">  was born* :rocket:). We're planning to release the very first version on August the 1st 2022. It can be delay due to some difficulties but we're doing our best to release on time :wink:!
