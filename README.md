@@ -31,7 +31,7 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
   </tr>
 </table><br>
 
-<p align=center><i>We're not currently accepting new members :pleading_face:, but we will accept very, very soon!:hugs:</i><p>
+<p align=center><i>We're currently not accepting new members :pleading_face:, but we will accept very, very soon!:hugs:</i><p>
 
 ## Long Term Plans <a id="LongTermPlans"></a>
 <table align=center>
