@@ -381,14 +381,20 @@ tr:nth-child(even){
 .our_story{
     width: 70%;
     padding: 10px;
+    padding-bottom: 70px;
     margin: 70px auto;
     border-radius: 20px;
     color: var(--primary-white);
     background-color: var(--primary-black);
     font-family: var(--our-story-font);
-    font-size: 19px;
+    font-size: 21px;
     font-weight: 400;
     box-shadow: 0 4px 8px 0 var(--dark-black);
+}
+@media (max-width:1090px){
+    .our_story{
+        padding-bottom: 20px;
+    }
 }
 .our_story h1{
     text-align: center;
