@@ -333,21 +333,22 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
 
 /* -------- MEMES.HTML -------- */
 .memes_container{
-    margin-top: 40px;
     width: 90%;
-    margin: auto;
+    margin: 40px auto;
     text-align: center;
 }
 .memes_container img{
-   width: 300px;
-   border: 5px solid black;
+    height: 320px;
+    width: 300px;
+    border: 5px solid black;
 }
 @media (max-width:850px){
     .memes_container{
         width: 98%;
     }
     .memes_container img{
-        width: 160px;
+        width: 60%;
+        height: auto;
     }
 }
 
@@ -381,14 +382,20 @@ tr:nth-child(even){
 .our_story{
     width: 70%;
     padding: 10px;
+    padding-bottom: 70px;
     margin: 70px auto;
     border-radius: 20px;
     color: var(--primary-white);
     background-color: var(--primary-black);
     font-family: var(--our-story-font);
-    font-size: 19px;
+    font-size: 21px;
     font-weight: 400;
     box-shadow: 0 4px 8px 0 var(--dark-black);
+}
+@media (max-width:1090px){
+    .our_story{
+        padding-bottom: 20px;
+    }
 }
 .our_story h1{
     text-align: center;
