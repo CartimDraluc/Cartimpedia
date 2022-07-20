@@ -19,7 +19,7 @@
 <p id="AboutUS" align=center><img width=500px height=80px src="https://img.shields.io/badge/About_us-0b3d91?style=for-the-badge&logoColor=white"></p>
 
 ## Our Story <a id="OurStory"></a>
-Our website has founded since May 26 2022(*The same day <img align=center src="https://img.shields.io/badge/Sally_Ride-0b3d91?style=for-the-badge&logo=nasa&logoColor=white">  was born* :rocket:). We're planning to release the very first version on August the 1st 2022. It can be delay due to some difficulties but we're doing our best to release on time :wink:!
+Our website has founded since May 26 2022(*The same day <img align=center src="https://img.shields.io/badge/Sally_Ride-0b3d91?style=for-the-badge&logo=nasa&logoColor=yellow">  was born* :rocket:). We're planning to release the very first version on August the 1st 2022. It can be delay due to some difficulties but we're doing our best to release on time :wink:! At first, we decided to make Cartimpedia as a RickRoll Page :exploding_head:! But we thought about it and since it is not a good idea, we changed it a to Wikipedia like website :relaxed:!
 
 ## Our Team <a id="OurTeam"></a>
 
