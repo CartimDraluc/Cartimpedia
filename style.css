@@ -333,21 +333,22 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
 
 /* -------- MEMES.HTML -------- */
 .memes_container{
-    margin-top: 40px;
     width: 90%;
-    margin: auto;
+    margin: 40px auto;
     text-align: center;
 }
 .memes_container img{
-   width: 300px;
-   border: 5px solid black;
+    height: 320px;
+    width: 300px;
+    border: 5px solid black;
 }
 @media (max-width:850px){
     .memes_container{
         width: 98%;
     }
     .memes_container img{
-        width: 160px;
+        width: 60%;
+        height: auto;
     }
 }
 
