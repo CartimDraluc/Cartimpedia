@@ -8,13 +8,14 @@
 3. [About us](#AboutUs)
     1. [Our Story](#OurStory)
     2. [Our Team](#OurTeam)
-    3. [Long Term Plans](#LongTermPlans)
+    3. [New Ideas](#NewIdeas)
+4. [FAQs](#FAQs)
 
 
 
 <p id="Intro" align=center><img width=700px height=80px src="https://img.shields.io/badge/introduction-0b3d91?style=for-the-badge&logoColor=white"></p>
 
-Cartimpedia is a free online encylopedia, started in 2022.
+Cartimpedia is a free online encylopedia, started in mid-2022. Cartimpedia gets its name from Cartim Draluc,Our founder, and Wikipedia,the free encyclopedia. Here, we provide many information.
 <hr>
 
 
@@ -35,7 +36,7 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
 
 <p align=center><i>We're currently not accepting new members :pleading_face:, but we will accept very, very soon!:hugs:</i><p>
 
-## Long Term Plans <a id="LongTermPlans"></a>
+## New Ideas <a id="NewIdeas"></a>
 <table align=center>
   <tr>
     <th>Name</th>
@@ -55,7 +56,14 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
     <td>Proposed</td>
     <td>Nyan Kaung Set</td>
   </tr>
+  <tr>
+    <td>Dark Mode</td>
+    <td>undefined</td>
+    <td>Proposed</td>
+    <td>Nyan Kaung Set</td>
+  </tr>
 </table><br><br>
+
 <p align=center><i><b>Any ideas:bulb:,thoughts:thought_balloon: and opinions:page_facing_up: are always welcomed! We want to hear from you :smiling_face_with_three_hearts:!</b></i></p>
 <p align=center><i>If you do have, please fill this form: <a href="https://cartimdraluc.github.io/Cartimpedia/about.html#contact_us">Get in touch</a>. Put "My Idea, thought" in "Title". We will reply within a few hours:hourglass_flowing_sand:!</i></p>
 <hr>
