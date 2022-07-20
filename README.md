@@ -25,10 +25,12 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
 
 <table align=center>
   <tr>
-    <td align="center"><a href="https://github.com/CartimDraluc"><img src="https://avatars.githubusercontent.com/u/106230817?s=120&v=4" width="120px;" alt=""/><br /><b>Cartim Draluc</b></a><br /><a href="" title="Founder">:man_in_tuxedo:</a> <a href="" title="Ideas, Planning and Feedback">:thinking:</a> <a href="" title="From USA">:us:</a><br><sub><a href="https://cartim-draluc.netlify.app/">View More</a></sub></td>
-    <td align="center"><a href="https://github.com/NyanKaungSet"><img src="https://avatars.githubusercontent.com/u/96227457?s=120&v=4" width="120px;" alt=""/><br /><b>Nyan Kaung Set</b></a><br /><a href="" title="Co-founder">:man_office_worker:</a> <a href="" title="code">:computer:</a> <a href="" title="Bugs Fix">:bug:</a> <a href="" title="From Myanmar">:myanmar:</a><br><sub><a href="https://challenger7.netlify.app/personalprofile/">View More</a></sub></td>
+    <td align="center"><a href="https://github.com/CartimDraluc"><img src="https://avatars.githubusercontent.com/u/106230817?s=120&v=4" width="120px;" alt=""/><br/><b>Cartim Draluc</b></a><br /><a href="" title="Founder">:man_in_tuxedo:</a> <a href="" title="Ideas, Planning and Feedback">:thinking:</a> <a href="" title="From USA">:us:</a><br><sub><a href="https://cartim-draluc.netlify.app/">View More</a></sub></td>
+    <td align="center"><a href="https://github.com/NyanKaungSet"><img src="https://avatars.githubusercontent.com/u/96227457?s=120&v=4" width="120px;" alt=""/><br/><b>Nyan Kaung Set</b></a><br /><a href="" title="Co-founder">:man_office_worker:</a> <a href="" title="code">:computer:</a> <a href="" title="Bugs Fix">:bug:</a> <a href="" title="From Myanmar">:myanmar:</a><br><sub><a href="https://challenger7.netlify.app/personalprofile/">View More</a></sub></td>
+    <td align="center"><a href="https://github.com"><img src="https://image.shutterstock.com/image-vector/programmer-icon-single-avatar-vector-260nw-2073604823.jpg"  width="120px;"><br><b>Unknown</b></a><br /><a href="" title="Unknown">:technologist:</a> <!--a href="" title="Unknown">:question:</a--> <a href="" title="From Milky Way">:milky_way:</a><br><sub><a href="https://github.com">View More</a></sub></td>
   </tr>
 </table><br>
+
 <p align=center><i>We're not currently accepting new members :pleading_face:, but we will accept very, very soon!:hugs:</i><p>
 
 ## Long Term Plans <a id="LongTermPlans"></a>
