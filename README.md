@@ -15,7 +15,7 @@
 
 <p id="Intro" align=center><img width=700px height=80px src="https://img.shields.io/badge/introduction-0b3d91?style=for-the-badge&logoColor=white"></p>
 
-Cartimpedia is a free online encylopedia, started in mid-2022. Cartimpedia gets its name from Cartim Draluc, <i>our founder</i>, and Wikipedia, <i>the free encyclopedia</i>. Here, we provide many information. Not only that but also RickRoll pages :rofl:. So think thoroughly before you click the link, unless you want to hear <i>"Never gonna give you up, let you down!" </i>:smile:
+Cartimpedia is a free online encylopedia, started in mid-2022. Cartimpedia gets its name from Cartim Draluc, <i>our founder :man_in_tuxedo:</i>, and Wikipedia, <i>the free encyclopedia :book:</i>. Here, we provide many information. Not only that but also RickRoll pages :rofl:. So think thoroughly before you click the link, or not you will definitely hear <i>"Never gonna give you up, let you down!" </i>:smile:
 <hr>
 
 
