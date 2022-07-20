@@ -13,6 +13,8 @@
 
 
 <p id="Intro" align=center><img width=700px height=80px src="https://img.shields.io/badge/introduction-0b3d91?style=for-the-badge&logoColor=white"></p>
+
+Cartimpedia is a free online encylopedia, started in 2022.
 <hr>
 
 
