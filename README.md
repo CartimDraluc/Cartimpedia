@@ -68,7 +68,7 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
 <p align=center><i>If you do have, please fill this form: <a href="https://cartimdraluc.github.io/Cartimpedia/about.html#contact_us">Get in touch</a>. Put "My Idea, thought" in "Title". We will reply within a few hours:hourglass_flowing_sand:!</i></p>
 <hr>
 
-<h1 align=center>Thanks For Visiting Our Website</h1>
+<h1 align=center>Thanks For Visiting Our Website! :hugs:</h1>
 <br><br>
 <!--img src="https://contrib.rocks/image?repo=CartimDraluc/Cartimpedia"/-->
 
