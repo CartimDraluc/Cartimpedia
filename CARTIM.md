@@ -2,7 +2,7 @@
 <p align=center><img src="https://cartim-draluc.netlify.app/pixlr-bg-result.png" width=500px height=300px></p>
 <p align='center'><i>I was holding a :knife: in the picture :smiling_imp:</i></p><hr>
 <h3 align='center'>Currently Learning :</h3>
-<p align='center'> <img src="https://img.shields.io/badge/Nothing-323330?style=for-the-badge&logo=nothing&logoColor=F7DF1E"></p>
+<p align='center'> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <!--img src="https://img.shields.io/badge/Nothing-323330?style=for-the-badge&logo=nothing&logoColor=F7DF1E"--></p>
 <br>
 
 <h3 align='center'>My Workspace :computer:</h3>
@@ -12,7 +12,7 @@
 <details>
     <summary>:chart_with_upwards_trend: Github Profile Summary Card</summary>
     <p align=center>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CartimDraluc&theme=vue">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CartimDraluc&theme=vue"> <img src="https://activity-graph.herokuapp.com/graph?username=CartimDraluc&theme=minimal">
     </p>
 </details>
 <hr>
