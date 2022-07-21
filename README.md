@@ -9,7 +9,6 @@
     1. [Our Story](#OurStory)
     2. [Our Team](#OurTeam)
     3. [New Ideas](#NewIdeas)
-4. [FAQs](#FAQs)
 
 
 
