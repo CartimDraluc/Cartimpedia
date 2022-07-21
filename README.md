@@ -1,4 +1,5 @@
 <a href="https://discord.gg/NGypAKTfga"><img src="https://img.shields.io/discord/989395034220658718?logo=discord&style=for-the-badge" alt="chat on Discord"></a> <img src="https://wakatime.com/badge/user/bc330e1d-04b3-4516-bfb4-2b28f0dabda9/project/457f5641-ec23-42f7-afb8-73cb895e5978.svg?style=for-the-badge"><br><img src="https://img.shields.io/github/commit-activity/y/CartimDraluc/Cartimpedia?style=plastic"> <img src="https://img.shields.io/github/commit-activity/m/CartimDraluc/Cartimpedia?style=plastic"> <!--img src="https://img.shields.io/github/languages/count/CartimDraluc/Cartimpedia?style=plastic"> <img src="https://img.shields.io/github/issues-closed/CartimDraluc/Cartimpedia?style=plastic"> <img src="https://img.shields.io/github/issues/CartimDraluc/Cartimpedia?style=plastic"--> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCartimDraluc%2FCartimpedia%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"></a>
+<hr>
 
 
 # Table of Contents
@@ -67,6 +68,7 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
 <p align=center><i>If you do have, please fill this form: <a href="https://cartimdraluc.github.io/Cartimpedia/about.html#contact_us">Get in touch</a>. Put "My Idea, thought" in "Title". We will reply within a few hours:hourglass_flowing_sand:!</i></p>
 <hr>
 
+<h1 align=center>Thanks For Visiting Our Website</h1>
 <br><br>
 <!--img src="https://contrib.rocks/image?repo=CartimDraluc/Cartimpedia"/-->
 
