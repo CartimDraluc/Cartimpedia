@@ -246,6 +246,7 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
     background-color: var(--primary-black);
     margin: 20px auto;
     padding: 20px;
+    text-align: center;
     border-radius: 13px;
     box-shadow: 0 0 10px var(--dark-black);
 }
@@ -267,6 +268,9 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
     width: fit-content;
     background-color: green;
     color: var(--primary-white);
+}
+.trending_container div img{
+    max-width: 80%;
 }
 
 
@@ -300,7 +304,7 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
 }
 .content_div img{
     margin: auto;
-    width: 150px;
+    width: 500px;
     border-radius: 20px;
 }
 .content_div p{
@@ -325,6 +329,7 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
         justify-content: center;
     }
     .content_div img{
+        width: 300px;
         margin: auto;
     }
 }
