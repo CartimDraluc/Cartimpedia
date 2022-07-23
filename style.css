@@ -275,7 +275,7 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
 
 
 
-/* -------- DISCUSSIONS.HTML -------- */
+/* -------- POSTS.HTML -------- */
 .post h1{
     text-align: center;
     color: var(--dark-yellow);
@@ -331,6 +331,11 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
     .content_div img{
         width: 300px;
         margin: auto;
+    }
+}
+@media (max-width:350px){
+    .content_div img{
+        width: 230px;
     }
 }
 
