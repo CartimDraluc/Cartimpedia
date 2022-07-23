@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
+
+
+body{
+    color: #fff;
+    user-select: none;
+}
+h1,h2{
+    text-align: center;
+    text-decoration: underline;
+}
+.img{
+    width: 600px;
+    margin: auto;
+}
+@media (max-width:700px){
+    .img{
+        width: 280px;
+    }
+}
+img{
+    width: 100%;
+}
+button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom:60px;
+    padding: 15px;
+    background-color: #ff5361;
+    font-size: 18px;
+    color: #fff;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+}
+button a{
+    text-decoration: none;
+    color: #fff;
+}
