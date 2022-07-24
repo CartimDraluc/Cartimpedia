@@ -74,4 +74,4 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
 <br><br>
 <!--img src="https://contrib.rocks/image?repo=CartimDraluc/Cartimpedia"/-->
 
-<!--v 0.17.1-->
+<!--Add Wakatime since July 19, Started since May 26-->
