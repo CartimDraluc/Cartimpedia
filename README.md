@@ -68,7 +68,7 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
     <tr>
     <td>Recreate The Home Page</td>
     <td>2.0.0</td>
-    <td>Proposed</td>
+    <td>Planning</td>
     <td>Unknown User</td>
   </tr>
 </table><br><br>
