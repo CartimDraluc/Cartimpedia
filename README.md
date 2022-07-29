@@ -65,6 +65,12 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
     <td>Proposed</td>
     <td>Nyan Kaung Set</td>
   </tr>
+    <tr>
+    <td>Recreate The Home Page</td>
+    <td>2.0.0</td>
+    <td>Planning</td>
+    <td>Unknown User</td>
+  </tr>
 </table><br><br>
 
 <p align=center><i><b>Any ideas:bulb:,thoughts:thought_balloon: and opinions:page_facing_up: are always welcomed! We want to hear from you :smiling_face_with_three_hearts:!</b></i></p>
