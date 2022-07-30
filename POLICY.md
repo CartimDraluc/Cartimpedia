@@ -1,4 +1,4 @@
-<a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/README.md">Back To Main</a>
+<a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/README.md">:back: Back To Main</a>
 
 # Our Privacy Policy
 
@@ -32,4 +32,4 @@ We will update this policy regularly. When we update this, we will update the da
 *Last updated on 18 July 2022*
 <hr>
 
-<a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/README.md">Back To Main</a>
+<a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/README.md">:back: Back To Main</a>
