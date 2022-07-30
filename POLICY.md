@@ -1,3 +1,5 @@
+<a href="https://github.com/CartimDraluc/Cartimpedia/blob/Prerelease/README.md">Back To Main</a>
+
 # Our Privacy Policy
 
 ## Intro
@@ -28,3 +30,6 @@ We will update this policy regularly. When we update this, we will update the da
 
 
 *Last updated on 18 July 2022*
+<hr>
+
+<a href="https://github.com/CartimDraluc/Cartimpedia/blob/Prerelease/README.md">Back To Main </a>
