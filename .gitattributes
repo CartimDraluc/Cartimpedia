@@ -1,5 +1,3 @@
 # Markdown
 *.md linguist-detectable=true
 *.md linguist-documentation=false
-
-# *.html linguist-detectable=false
