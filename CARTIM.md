@@ -8,9 +8,12 @@
 <h3 align='center'>My Workspace :computer:</h3>
 <p align='center'><img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
 
+
+<details>
+    <summary>:octocat: Gihub</summary>
 <hr>
 <details>
-    <summary>:chart_with_upwards_trend: Github Profile Summary Card</summary>
+   <summary>:chart_with_upwards_trend: Github Profile Summary Card</summary>
     <p align=center>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CartimDraluc&theme=vue"> <img src="https://activity-graph.herokuapp.com/graph?username=CartimDraluc&theme=minimal">
     </p>
@@ -23,6 +26,8 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=CartimDraluc&theme=blue-green"> <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CartimDraluc&theme=blue-green">
     </p>
+</details>
+<hr>
 </details>
 <hr>
 <details>
