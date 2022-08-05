@@ -125,7 +125,6 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
     background-color: var(--primary-blue);
 }
 .news_text{
-    text-decoration: none;
     position: absolute;
     z-index: 2;
     top: -1px;
