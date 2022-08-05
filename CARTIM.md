@@ -10,17 +10,17 @@
 
 
 <details>
-    <summary>:octocat: Gihub</summary>
+    <summary>:octocat: GitHub</summary>
 <hr>
 <details>
-   <summary>:chart_with_upwards_trend: Github Profile Summary Card</summary>
+   <summary>:chart_with_upwards_trend: GitHub Profile Summary Card</summary>
     <p align=center>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CartimDraluc&theme=vue"> <img src="https://activity-graph.herokuapp.com/graph?username=CartimDraluc&theme=minimal">
     </p>
 </details>
 <hr>
 <details>
-    <summary>:bar_chart: Github Statistics</summary>
+    <summary>:bar_chart: GitHub Statistics</summary>
     <p align=center>
         <img src="https://github-readme-stats.vercel.app/api?username=CartimDraluc&theme=blue-green"> 
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=CartimDraluc&theme=blue-green"> <br>
@@ -28,15 +28,17 @@
     </p>
 </details>
 <hr>
-</details>
-<hr>
 <details>
-    <summary>:trophy: Trophy</summary>
+    <summary>:trophy: GitHub Trophy</summary>
     <p align=center>
         <img src="https://github-profile-trophy.vercel.app/?username=CartimDraluc">
     </p>
 </details>
 <hr>
+</details>
+<hr>
+
+
 <details>
   <summary>:book: Languages</summary><br>
   <p align='center'>
