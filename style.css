@@ -38,6 +38,7 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
     position: sticky;
     top: 0;
     z-index: 9;
+    border-bottom: 1px solid var(--primary-white);
 }
 .topnav a {
     float: left;
