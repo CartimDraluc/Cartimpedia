@@ -34,6 +34,7 @@
         </p>
         <p align=center>* * * * *</p>
     </details>
+    <br>
 </details>
 <hr>
 
