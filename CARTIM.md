@@ -7,7 +7,7 @@
 
 <h3 align='center'>My Workspace :computer:</h3>
 <p align='center'><img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
-
+<br><hr><br>
 
 <details>
     <summary>:octocat: GitHub</summary><br>
@@ -32,8 +32,8 @@
         <p align=center>
             <img src="https://github-profile-trophy.vercel.app/?username=CartimDraluc">
         </p>
+        <p align=center>* * * * *</p>
     </details>
-    <p align=center>* * * * *</p>
 </details>
 <hr>
 
