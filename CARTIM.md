@@ -12,14 +12,14 @@
 <details>
     <summary>:octocat: GitHub</summary>
     <details>
-    <summary>:chart_with_upwards_trend: GitHub Profile Summary Card</summary>
+    <summary align=center>:chart_with_upwards_trend: GitHub Profile Summary Card</summary>
         <p align=center>
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CartimDraluc&theme=vue"> <img src="https://activity-graph.herokuapp.com/graph?username=CartimDraluc&theme=minimal">
         </p>
     </details>
     <hr>
     <details>
-        <summary>:bar_chart: GitHub Statistics</summary>
+        <summary align=center>:bar_chart: GitHub Statistics</summary>
         <p align=center>
             <img src="https://github-readme-stats.vercel.app/api?username=CartimDraluc&theme=blue-green"> 
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=CartimDraluc&theme=blue-green"> <br>
@@ -28,7 +28,7 @@
     </details>
     <hr>
     <details>
-        <summary>:trophy: GitHub Trophy</summary>
+        <summary align=center>:trophy: GitHub Trophy</summary>
         <p align=center>
             <img src="https://github-profile-trophy.vercel.app/?username=CartimDraluc">
         </p>
@@ -45,6 +45,7 @@
   </p>
 </details>
 <hr>
+
 <details>
     <summary>:smile: Jokes</summary>
     <p align=center>
