@@ -6,4 +6,10 @@
 </details>
 <hr>
 
+<details>
+   <summary align=center>Can we use some texts from Posts?<summary><hr><br>
+    <p align=center></p>We have disabled the copying text from our website for some reasons. However if you want to use for your projects or presentations. Email us! We will gladly share it to you!:hugs:</p>
+</details>
+<hr>
+
 <a href="README.md">:back: Back To Main</a>
