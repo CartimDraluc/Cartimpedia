@@ -83,6 +83,9 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
 
 <h1 align=center>Thanks For Visiting Our Website! :hugs: <a href="#top">Back To Top:top:</a></h1>
 <br><br>
+
+<h1>:warning: Debug </h1>
+<img src="https://github.com/CartimDraluc/Cartimpedia/actions/workflows/pagespeed.yml/badge.svg">
 <!--img src="https://contrib.rocks/image?repo=CartimDraluc/Cartimpedia"/-->
 
 <!--Add Wakatime since July 19, Started since May 26-->
