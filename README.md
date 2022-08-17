@@ -3,7 +3,7 @@
 <hr>
 
 <p align=center>
-  <img src="assets/banner.svg">
+  <img src="https://github.com/CartimDraluc/Cartimpedia/blob/main/reports/psresultdesktop.svg">
 </p>
 
 # Table of Contents
