@@ -1,4 +1,4 @@
-//Top Navigation Bar
+// ---- Top Navigation Bar ---- //
 function iconClick(){location.href="index.html";}
 function navbar() {
     var x = document.getElementById("myTopnav");
@@ -9,7 +9,18 @@ function navbar() {
      }
 }
 
-// FAQ Section
+function Founder(){
+  location.href = "Secrets/index.html";
+}
+
+// ---- RickRoll Section ---- //
+var song = document.getElementById('song')
+function RickTime(){
+    song.play();
+}
+
+
+// ---- FAQ Section ---- //
 $(document).ready(function(){
   $('#FAQs_container').hide();
   $('#GoToFAQ').click(function(){
@@ -23,6 +34,11 @@ $(document).ready(function(){
   $(".flip").click(function(){
     $(this).next().find(".panel").slideToggle("slow");
   });
+  $('#PlayRick').click(function(){
+    $('#main_container').hide();
+    $('#FAQs_container').hide();
+    $('#RickBG').show();
+  })
 });
 
 /*Dark Mode
@@ -35,8 +51,8 @@ function DarkMode() {
 
 
 
-// ---- ABOUT US PAGE ----
-// Anchor Tags Not Allowed
+// ---- ABOUT US PAGE ---- //
+// Anchor Tags Not Allowed //
 function NA(){
   alert('You are currently not allowed. Sorry mate.')
 }

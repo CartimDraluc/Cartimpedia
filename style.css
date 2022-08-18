@@ -285,7 +285,6 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
 }
 
 
-
 /* -------- POSTS.HTML -------- */
 .post h1{
     text-align: center;
@@ -332,6 +331,18 @@ a:hover{color: var(--primary-white);text-decoration: underline;}
     font-size: 20px;
     color: var(--primary-white);
     list-style: square;
+}
+#RickBG{
+    display: none;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://c.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif);
+    background-repeat: repeat;
+    background-size: 200px 300px;
+}
+#RickBG h1{
+    margin: 0;
+    text-align: center;
 }
 
 @media (max-width:700px){
