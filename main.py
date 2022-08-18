@@ -1,4 +1,4 @@
-print("Hello, I'm Math Bot. How can I help you?")
+print("Hello, I'm Maths Bot. How can I help you?")
 sign = input(print("Type +,_,/,*"))
 if sign == "+":
     first = input(print("type first number"))
