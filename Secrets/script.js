@@ -18,6 +18,8 @@ if(un =="Cartim" && pw == "Draluc"){
         $('#login').hide();
         $('#Dashboard').show();
     }, 3000);
+    newPageTitle = 'Hello Founder!';
+    document.querySelector('title').textContent = newPageTitle;
 }
 else{
     document.getElementById('wrong').play();
