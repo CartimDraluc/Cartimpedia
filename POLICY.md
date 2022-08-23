@@ -12,7 +12,7 @@ When using our products and services, **we will collect your personal infomation
 
 ## What information is collected by third parties?
 
-Our products may contain advertising and analytics. The providers of these services are Google, its technology partners and Github. These providers may collect and record information from users' devices, such as: device type, model, IP address, Screen Resolution and...etc.
+Our products may contain advertising and analytics. The providers of these services are Google, its technology partners and Github. These providers may collect and record information from users' devices, device type, model, IP address, Screen Resolution for example.
 
 ## With Who else is your information shared?
 
@@ -25,11 +25,11 @@ But in case of emergency which we believe that can harm you and others, we may s
 
 ## Changes to This Policy
 
-We will update this policy regularly. When we update this, we will update the date at the bottom of the page and if the changes are significant, we will email you or highlight the changes. The changes will be effective when posted. Please check this page regualrly so that you remian aware of what information we collect and how we use it.
+We will update this policy regularly. When we update this, we will update the date at the bottom of the page and if the changes are significant, we will highlight the changes. The changes will be effective when posted. Please check this page regualrly so that you remian aware of what information we collect and how we use it.
 
 
 
-*Last updated on 18 July 2022*
+*Last updated on 23 August 2022*
 <hr>
 
 <a href="README.md">:back: Back To Main</a>
