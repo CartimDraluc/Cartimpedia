@@ -18,6 +18,11 @@ function Time(){
       td.style.backgroundColor = "#188050";
       td.style.fontWeight = "bold";
     }
+    else if(Class == "English Class"){
+      td.style.color = "#fff";
+      td.style.backgroundColor = "#4267B2"
+      td.style.fontWeight = "bold";
+    }
     else if(Class == ""){
         td.style.backgroundColor = "#fff";
     }
