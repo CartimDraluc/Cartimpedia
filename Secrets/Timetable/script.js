@@ -18,7 +18,7 @@ function Time(){
       td.style.backgroundColor = "#188050";
       td.style.fontWeight = "bold";
     }
-    else if(Class == "English Class"){
+    else if(Class == "IELTS"){
       td.style.color = "#fff";
       td.style.backgroundColor = "#4267B2"
       td.style.fontWeight = "bold";
