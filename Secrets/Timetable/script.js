@@ -23,6 +23,36 @@ function Time(){
       td.style.backgroundColor = "#4267B2"
       td.style.fontWeight = "bold";
     }
+
+    else if(Class == "Global Citizenship (Pre-IG)"){
+      td.style.color = "#fff";
+      td.style.backgroundColor = "#1DB954"
+    }
+    else if(Class == "English (Pre-IG)"){
+      td.style.color = "#fff";
+      td.style.backgroundColor = "#1DB954"
+    }
+    else if(Class == "Maths (Pre-IG)"){
+      td.style.color = "#fff";
+      td.style.backgroundColor = "#1DB954"
+    }
+    else if(Class == "IT (Pre-IG)"){
+      td.style.color = "#fff";
+      td.style.backgroundColor = "#1DB954"
+    }
+    else if(Class == "Bio (Pre-IG)"){
+      td.style.color = "#fff";
+      td.style.backgroundColor = "#1DB954"
+    }
+    else if(Class == "Chemistry (Pre-IG)"){
+      td.style.color = "#fff";
+      td.style.backgroundColor = "#1DB954"
+    }
+    else if(Class == "Physics (Pre-IG)"){
+      td.style.color = "#fff";
+      td.style.backgroundColor = "#1DB954"
+    }
+
     else if(Class == ""){
         td.style.backgroundColor = "#fff";
     }
