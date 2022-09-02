@@ -1,3 +1,5 @@
+<a href="https://wakatime.com/@67f0672f-51cc-4b54-95c9-54a4324a1a1e"><img src="https://wakatime.com/badge/user/67f0672f-51cc-4b54-95c9-54a4324a1a1e.svg" alt="Total time coded since Aug 10 2022" /></a> <img src="https://img.shields.io/youtube/channel/subscribers/UCQSQz72grf6xK1zb60IQsWA?style=flat&logo=youtube"> <img src="https://img.shields.io/youtube/channel/views/UCQSQz72grf6xK1zb60IQsWA?style=flat&logo=youtube"><br>
+
 <h1 align='center'> Hello World! I'm Cartim, An Absolute :beginner: Beginner :blush: </h1>
 <p align=center><img src="https://cartim-draluc.netlify.app/pixlr-bg-result.png" width=500px height=300px></p>
 <p align='center'><i>I was holding a :knife: in the picture :smiling_imp:</i></p><hr>
@@ -40,7 +42,7 @@
 
 
 <details>
-  <summary>:book: Skills</summary><br>
+  <summary>:book: Languages</summary><br>
   <p align='center'>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </p>
@@ -54,3 +56,7 @@
     </p>
 </details>
 <hr>
+
+<div align=center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31icxffn4n4hrcpat2rszt6r3yjy&cover_image=true&theme=default">
+</div>
