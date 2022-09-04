@@ -86,7 +86,7 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
 <br><br>
 
 <h1>:warning: Debug </h1>
-<img src="https://github.com/CartimDraluc/Cartimpedia/actions/workflows/pagespeed.yml/badge.svg"><img src="https://github.com/CartimDraluc/Cartimpedia/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main">
+<img src="https://github.com/CartimDraluc/Cartimpedia/actions/workflows/pagespeed.yml/badge.svg"> <img src="https://github.com/CartimDraluc/Cartimpedia/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main">
 
 
 <!--img src="https://contrib.rocks/image?repo=CartimDraluc/Cartimpedia"/-->
