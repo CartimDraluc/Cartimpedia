@@ -76,6 +76,11 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
     <td>Planning</td>
     <td>Unknown User</td>
   </tr>
+  <tr>
+    <td>Facebook Like Loading Animation</td>
+    <td>undefined</td>
+    <td>Planning</td>
+    <td>Unknown User</td>
 </table><br><br>
 
 <p align=center><i><b>Any ideas:bulb:,thoughts:thought_balloon: and opinions:page_facing_up: are always welcomed! We want to hear from you :smiling_face_with_three_hearts:!</b></i></p>
