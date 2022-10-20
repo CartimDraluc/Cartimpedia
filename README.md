@@ -11,7 +11,7 @@
 
 1. [Introduction](#Intro)
 2. <a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/POLICY.md">Privacy Policy</a>
-3. [About us](#AboutUs)
+3. <a href="#AboutUs">About us</a>
     1. [Our Story](#OurStory)
     2. [Our Team](#OurTeam)
     3. [New Ideas](#NewIdeas)
@@ -50,37 +50,37 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
     <th>Name</th>
     <th>Will Be Add on</th>
     <th>Status</th>
-    <th>Advised By</th>
   </tr>
   <tr>
     <td>Discussion Channels</td>
     <td>undefined</td>
     <td>Proposed</td>
-    <td>Cartim Draluc</td>
   </tr>
   <tr>
     <td>Connect With Firebase:fire:</td>
     <td>undefined</td>
     <td>Proposed</td>
-    <td>Nyan Kaung Set</td>
   </tr>
   <tr>
     <td>Dark Mode</td>
     <td>undefined</td>
     <td>Proposed</td>
-    <td>Nyan Kaung Set</td>
   </tr>
     <tr>
     <td>Recreate The Home Page</td>
     <td>2.0.0</td>
     <td>Planning</td>
-    <td>Unknown User</td>
   </tr>
   <tr>
     <td>Facebook Like Loading Animation</td>
     <td>undefined</td>
     <td>Planning</td>
-    <td>Unknown User</td>
+  <tr>
+  <tr>
+    <td>Add Milestones</td>
+    <td>2.0.0</td>
+    <td>Planning</td>
+  <tr>
 </table><br><br>
 
 <p align=center><i><b>Any ideas:bulb:,thoughts:thought_balloon: and opinions:page_facing_up: are always welcomed! We want to hear from you :smiling_face_with_three_hearts:!</b></i></p>
