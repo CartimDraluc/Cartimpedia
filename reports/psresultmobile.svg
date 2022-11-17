@@ -179,7 +179,7 @@
 				<!-- No badges. -->
 				<rect class="lh-gauge--pwa__component lh-gauge--pwa__na-line lh-gauge--pwa__invisible" fill="#FFFFFF" x="20" y="32" width="20" height="4" rx="2"></rect>
 				<!-- Just fast and reliable. -->
-				<g class="lh-gauge--pwa__component lh-gauge--pwa__fast-reliable-badge lh-gauge--pwa__invisible" transform="translate(20, 29)">
+				<g class="lh-gauge--pwa__component lh-gauge--pwa__fast-reliable-badge lh-gauge--pwa__visible" transform="translate(20, 29)">
 					<path fill="url(#lh-gauge--pwa__fast-reliable__shadow-gradient-0)" d="M33.63 19.49A30 30 0 0 1 16.2 30.36L3 17.14 17.14 3l16.49 16.49z"></path>
 					<use href="#lh-gauge--pwa__fast-reliable-badge-0"></use>
 				</g>
