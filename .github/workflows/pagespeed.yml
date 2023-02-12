@@ -8,7 +8,6 @@ jobs:
       HOST: https://cartimdraluc.github.io/Cartimpedia/
       PSURL: https://pagespeed-insights.herokuapp.com
       PSRDESKTOP: psresultdesktop
-      PSRMOBILE: psresultmobile
       RESULTSFOLDER: reports
     runs-on: ubuntu-latest
     steps:
@@ -20,7 +19,6 @@ jobs:
       run: | # Have to be sure a folder is present if not, make it
           mkdir -p ${RESULTSFOLDER}
           curl "${PSURL}/?url=${HOST}" > ./${RESULTSFOLDER}/${PSRDESKTOP}.svg
-          curl "${PSURL}/?url=${HOST}&strategy=mobile" > ./${RESULTSFOLDER}/${PSRMOBILE}.svg
     - name: Commit files 
       run: |
         git add .
