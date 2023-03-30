@@ -16,7 +16,7 @@
     <details>
     <summary align=center>:chart_with_upwards_trend: GitHub Profile Summary Card</summary><br>
         <p align=center>
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CartimDraluc&theme=vue"> <img src="">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CartimDraluc&theme=vue"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=CartimDraluc">
         </p>
     </details>
     <hr>
