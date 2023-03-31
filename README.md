@@ -5,7 +5,7 @@
 <p align=center>
   <img src="https://github.com/CartimDraluc/Cartimpedia/blob/Prerelease/images/Lighthouse%20Report.png">
   
-  *Captured at Mar 30, 2023, 2:27 PM GMT+6:30*
+  *Captured at Mar 31, 2023, 7:52 PM GMT+6:30*
 </p>
 <hr>
 
