@@ -1,11 +1,11 @@
 <a id="top"></a>
-<a href="https://discord.gg/NGypAKTfga"><img src="https://img.shields.io/discord/989395034220658718?logo=discord&style=for-the-badge" alt="chat on Discord"></a> <img src="https://wakatime.com/badge/user/bc330e1d-04b3-4516-bfb4-2b28f0dabda9/project/457f5641-ec23-42f7-afb8-73cb895e5978.svg?style=for-the-badge"><br><img src="https://img.shields.io/github/commit-activity/y/CartimDraluc/Cartimpedia?style=plastic"> <img src="https://img.shields.io/github/commit-activity/m/CartimDraluc/Cartimpedia?style=plastic"> <!--img src="https://img.shields.io/github/languages/count/CartimDraluc/Cartimpedia?style=plastic"> <img src="https://img.shields.io/github/issues-closed/CartimDraluc/Cartimpedia?style=plastic"> <img src="https://img.shields.io/github/issues/CartimDraluc/Cartimpedia?style=plastic"--> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCartimDraluc%2FCartimpedia%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"></a>
+<a href="https://discord.gg/NGypAKTfga"><img src="https://img.shields.io/discord/989395034220658718?logo=discord&style=for-the-badge" alt="chat on Discord"></a><br><img src="https://img.shields.io/github/commit-activity/y/CartimDraluc/Cartimpedia?style=plastic"> <img src="https://img.shields.io/github/commit-activity/m/CartimDraluc/Cartimpedia?style=plastic"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCartimDraluc%2FCartimpedia%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"></a>
 <hr>
 
 <p align=center>
   <img src="https://github.com/CartimDraluc/Cartimpedia/blob/Prerelease/images/Lighthouse%20Report.png">
   
-  *Captured at Mar 30, 2023, 2:27 PM GMT+6:30*
+  *Captured at Mar 31, 2023, 7:52 PM GMT+6:30*
 </p>
 <hr>
 
@@ -16,7 +16,6 @@
 3. <a href="#AboutUs">About us</a>
     1. [Our Story](#OurStory)
     2. [Our Team](#OurTeam)
-    3. [New Ideas](#NewIdeas)
 4. [FAQs](FAQs.md)
 
 
@@ -44,49 +43,10 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
   </tr>
 </table><br>
 
-<p align=center><i>We're currently not accepting new members :pleading_face:, but we will accept very, very soon!:hugs:</i><p>
-
-## New Ideas <a id="NewIdeas"></a> <a href="#top">:top:</a>
-<table align=center>
-  <tr>
-    <th>Name</th>
-    <th>Will Be Add on</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td>Discussion Channels</td>
-    <td>undefined</td>
-    <td>Proposed</td>
-  </tr>
-  <tr>
-    <td>Connect With Firebase:fire:</td>
-    <td>undefined</td>
-    <td>Proposed</td>
-  </tr>
-  <tr>
-    <td>Dark Mode</td>
-    <td>undefined</td>
-    <td>Proposed</td>
-  </tr>
-    <tr>
-    <td>Recreate The Home Page</td>
-    <td>2.0.0</td>
-    <td>Planning</td>
-  </tr>
-  <tr>
-    <td>Facebook Like Loading Animation</td>
-    <td>undefined</td>
-    <td>Planning</td>
-  <tr>
-  <tr>
-    <td>Add Milestones</td>
-    <td>2.0.0</td>
-    <td>Planning</td>
-  <tr>
-</table><br><br>
+<p align=center><i>We're currently not accepting new members :pleading_face:, but we will accept very, very soon!:hugs:</i><p><br><br>
 
 <p align=center><i><b>Any ideas:bulb:,thoughts:thought_balloon: and opinions:page_facing_up: are always welcomed! We want to hear from you :smiling_face_with_three_hearts:!</b></i></p>
-<p align=center><i>If you do have, please fill this form: <a href="https://cartimdraluc.github.io/Cartimpedia/about.html#contact_us">Get in touch</a>. Put "My Idea, thought" in "Title". We will reply within a few hours:hourglass_flowing_sand:!</i></p>
+<p align=center><i>If you do have, please fill this form: <a href="https://cartimdraluc.github.io/Cartimpedia/about.html#contact_us">Get in touch</a>. Put "My Idea, thought" in "Title". We will reply you ASAP:hourglass_flowing_sand:!</i></p>
 <hr>
 
 <h1 align=center>Thanks For Visiting Our Website! :hugs: <a href="#top">Back To Top:top:</a></h1>
