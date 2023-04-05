@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <title>Report An Issue</title>
+    <style>
+        body{
+            background-color: #4cf3f3;
+            min-height: 100vh;
+            position: relative;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }.container{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 90%;
+            transform: translate(-50%,-50%);
+            border-radius: 20px;
+            margin: auto;
+            display: flex;
+            align-items: center;
+        }
+        .container form{
+            margin: auto;
+            background-color: #fff;
+            display: flex;
+            flex-direction: column;
+            padding: 2vw 4vw;
+            width: 100%;
+            max-width: 600px;
+            border-radius: 10px;
+        }
+        .container form input,.container form textarea{
+            border: 0;
+            margin: 10px 0;
+            padding: 20px;
+            outline: none;
+            background-color: #f5f5f5;
+            font-size: 16px;
+        }
+        .container form button{
+            padding: 15px;
+            background-color: #ff5361;
+            font-size: 18px;
+            color: #fff;
+            border: 0;
+            outline: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <form action="https://formsubmit.co/e5f3f8180747584f2aee8b3588047861" method="POST">
+            <h1>Report An Issue</h1>
+            <input type="text" name="_honey" style="display:none;">
+            <input type="hidden" name="_captcha" value="false">
+            <input type="hidden" name="_next" value="https://cartimdraluc.github.io/Cartimpedia/Posts/reportsuccessful.html">
+            <input type="hidden" name="_subject" value="Issue Reported">
+            <input type="text" name="Name" placeholder="Your Name" required>
+            <input type="email"name="Email" placeholder="Email Address" required>
+            <input type="text" name="Post&nbsp;Name&nbsp;And&nbsp;Author" placeholder="Post Name And Author" required>
+            <label>Choose the issue type :</label><select name="Issue&nbsp;Type">
+                <option>Hate Speech</option>
+                <option>Scam</option>
+                <option>Harassment</option>
+                <option>False Information</option>
+                <option>Others</option>
+            </select>
+            <textarea rows="4" name="Message" placeholder="Please describe it(optional)"></textarea>
+            <button type="submit">Send</button>
+        </form>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
