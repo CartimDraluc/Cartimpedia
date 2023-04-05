@@ -61,4 +61,4 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31icxffn4n4hrcpat2rszt6r3yjy&cover_image=true&theme=default">
 </div>
 
-https://github.com/JeffreyCA/spotify-recently-played-readme
+<!--https://github.com/JeffreyCA/spotify-recently-played-readme-->
