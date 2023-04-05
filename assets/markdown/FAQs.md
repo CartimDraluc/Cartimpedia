@@ -6,10 +6,13 @@
 </details>
 <hr>
 
+
 <details>
-   <summary align=center>Can we use some texts from Posts?<summary><hr><br>
-    <p align=center></p>You're FREE to use it. We're glad to share it with you!:hugs:</p>
+   <summary align=center>Can we use some texts from Posts?</summary><hr><br>
+    <p align=center>You're FREE to use it. We're glad to share it with you!:hugs:</p>
 </details>
 <hr>
+
+
 
 <a href="README.md">:back: Back To Main</a>
