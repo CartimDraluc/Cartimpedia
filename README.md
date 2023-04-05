@@ -3,8 +3,8 @@
 <hr>
 
 <p align=center>
-  <img src="https://github.com/CartimDraluc/Cartimpedia/blob/Prerelease/images/Lighthouse%20Report.png">
-  
+ <img src="https://github.com/CartimDraluc/Cartimpedia/blob/Prerelease/images/Lighthouse%20Report.png">
+
   *Captured at Mar 30, 2023, 2:27 PM GMT+6:30*
 </p>
 <hr>
@@ -58,4 +58,4 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
 
 <!--img src="https://contrib.rocks/image?repo=CartimDraluc/Cartimpedia"/-->
 
-<!--Add Wakatime since July 19, Started since May 26-->
+<!--Add Wakatime since July 19 2022, Started since May 26-->
