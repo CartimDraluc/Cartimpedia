@@ -3,9 +3,9 @@
 <hr>
 
 <p align=center>
- <img src="https://github.com/CartimDraluc/Cartimpedia/blob/Prerelease/assets/images/Lighthouse%20Report.png">
+ <img src="https://github.com/CartimDraluc/Cartimpedia/blob/Prerelease/assets/images/Lighthouse%20Report.jpg">
 
-  *Captured at Apr 5, 2023, 12:36 PM GMT+6:30*
+  *Captured at Apr 4, 2023, 2:03 PM GMT+6:30*
 </p>
 <hr>
 
