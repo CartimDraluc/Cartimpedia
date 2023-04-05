@@ -50,7 +50,6 @@ function DarkMode() {
 }*/
 
 
-
 // ---- ABOUT US PAGE ---- //
 // Anchor Tags Not Allowed //
 function NA(){
