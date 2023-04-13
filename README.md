@@ -3,20 +3,20 @@
 <hr>
 
 <p align=center>
- <img src="https://github.com/CartimDraluc/Cartimpedia/blob/Prerelease/assets/images/Lighthouse%20Report.png">
+ <img src="https://github.com/CartimDraluc/Cartimpedia/blob/Prerelease/assets/images/Lighthouse%20Report.JPG?raw=true">
 
-  *Captured at Apr 7, 2023, 9:20:06 PM GMT+6:30*
+  *Captured at Apr 13, 2023, 2:17 PM GMT+6:30*
 </p>
 <hr>
 
 # Table of Contents
 
 1. [Introduction](#Intro)
-2. <a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/POLICY.md">Privacy Policy</a>
+2. <a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/assets/markdown/POLICY.md">Privacy Policy</a>
 3. <a href="#AboutUs">About us</a>
     1. [Our Story](#OurStory)
     2. [Our Team](#OurTeam)
-4. [FAQs](FAQs.md)
+4. <a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/assets/markdown/FAQs.md">FAQs</a>
 
 
 
