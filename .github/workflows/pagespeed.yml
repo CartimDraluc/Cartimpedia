@@ -1,11 +1,18 @@
 name: Detailed report with PWA
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.pagespeed.detailed.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_pagespeed: yes
-  plugin_pagespeed_detailed: yes
-  plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-  plugin_pagespeed_url: https://cartimdraluc.github.io/Cartimpedia/
-  plugin_pagespeed_pwa: yes
+on:
+  workflow_dispatch:
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.pagespeed.detailed.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://cartimdraluc.github.io/Cartimpedia/
+          plugin_pagespeed_pwa: yes
