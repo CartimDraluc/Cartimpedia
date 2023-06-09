@@ -1,4 +1,4 @@
-name: Detailed report with PWA
+name: Pagespeed Insights
 on:
   workflow_dispatch:
   
