@@ -89,43 +89,13 @@ footer div a:hover{
     padding: 10px;
     font-size: 20px;
 }
-.meet_the_team .cards_container .card .intro text{
-    position: relative;
-    text-decoration: underline;
-    cursor: pointer;
-}
-.meet_the_team .cards_container .card .intro text .US_flag{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    visibility: hidden;
-    z-index: 1;
-    width: 30px;
-    height: 15px;
-    border-radius: 0px;
-}
-text:hover .US_flag,.meet_the_team .cards_container .card .intro text:hover .US_flag{
-    top: 1px;
-    left: 1px;
-    transform: translate(0%,0%);
-    width: 300px;
-    height: 150px;
-    visibility: visible;
-}
-.meet_the_team .cards_container .card .intro text .us_blue{color: #002868;font-weight: 800;background-color: #fff;text-decoration: underline;}
-.meet_the_team .cards_container .card .intro text .us_red{color: #BF0A30;font-weight: 800;background-color: #fff;text-decoration: underline;}
+
 @media (max-width:700px){
     .meet_the_team .cards_container{
         flex-direction: column;
     }
     .meet_the_team .cards_container .card{
         margin: 20px auto;
-    }
-    text:hover .US_flag,.meet_the_team .cards_container .card .intro text:hover .US_flag{
-        overflow: hidden;
-        width: 200px;
-        height: 100px;
     }
 }
 

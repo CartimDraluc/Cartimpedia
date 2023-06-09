@@ -5,18 +5,18 @@
 <p align=center>
  <img src="https://github.com/CartimDraluc/Cartimpedia/blob/Prerelease/assets/images/Lighthouse%20Report.jpeg?raw=true">
  <img src="https://github.com/CartimDraluc/Cartimpedia/blob/Prerelease/assets/images/Lighthouse%20Report.png?raw=true">
-  *Captured at May 14, 2023, 5:38 PM GMT+6:30*
+  *Captured at Jun 9, 2023, 9:12 PM GMT+6:30*
 </p>
 <hr>
 
 # Table of Contents
 
 1. [Introduction](#Intro)
-2. <a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/assets/markdown/POLICY.md">Privacy Policy</a>
-3. <a href="#AboutUs">About us</a>
+2. <a href="#AboutUs">About us</a>
     1. [Our Story](#OurStory)
     2. [Our Team](#OurTeam)
-4. <a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/assets/markdown/FAQs.md">FAQs</a>
+3. <a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/assets/markdown/FAQs.md">FAQs</a>
+4. <a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/assets/markdown/POLICY.md">Privacy Policy</a>
 
 
 
@@ -37,8 +37,8 @@ Our website has founded since May 26 2022(*The same day <img align=center src="h
 
 <table align=center>
   <tr>
-    <td align="center"><a href="https://github.com/CartimDraluc"><img src="https://avatars.githubusercontent.com/u/106230817?s=120&v=4" width="120px;" alt=""/><br/><b>Cartim Draluc</b></a><br /><a href="" title="Founder">:man_in_tuxedo:</a> <a href="" title="Post Creator">:fountain_pen:</a> <a href="" title="Ideas, Planning and Feedback">:thinking:</a> <a href="" title="From USA">:us:</a><br><sub><a href="https://cartim-draluc.netlify.app/">View More</a></sub></td>
-    <td align="center"><a href="https://github.com/NyanKaungSet"><img src="https://avatars.githubusercontent.com/u/96227457?s=120&v=4" width="120px;" alt=""/><br/><b>Nyan Kaung Set</b></a><br /><a href="" title="Co-founder">:man_office_worker:</a> <a href="" title="code">:computer:</a> <a href="" title="From Myanmar">:myanmar:</a><br><sub><a href=""></a></sub></td>
+    <td align="center"><a href="https://github.com/CartimDraluc"><img src="https://avatars.githubusercontent.com/u/106230817?s=120&v=4" width="120px;" alt=""/><br/><b>Cartim Draluc</b></a></td>
+    <td align="center"><a href="https://github.com/NyanKaungSet"><img src="https://avatars.githubusercontent.com/u/96227457?s=120&v=4" width="120px;" alt=""/><br/><b>Nyan Kaung Set</b></a></td>
     <!--td align="center"><a href="https://github.com"><img src="https://image.shutterstock.com/image-vector/programmer-icon-single-avatar-vector-260nw-2073604823.jpg"  width="120px;"><br><b>Unknown</b></a><br /><a href="" title="Unknown">:technologist:</a> <a href="" title="Post Creator">:fountain_pen:</a> <a href="" title="Unknown">:question:</a> <a href="" title="From Milky Way">:milky_way:</a><br><sub><a href="https://github.com">View More</a></sub></td-->
   </tr>
 </table><br>
