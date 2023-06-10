@@ -1,7 +1,5 @@
-name: Pagespeed Results
+name: Get Pagespeed results
 on:
-  # schedule:
-    # - cron:  '0 0 * * *' # 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -25,12 +23,3 @@ jobs:
           curl "${PSURL}/?url=${HOST}&strategy=mobile" > ./${RESULTSFOLDER}/${PSRMOBILE}.svg
     - name: Commit files 
       run: |
-        git add .
-        git config --local user.email "actions@github.com"
-        git config --local user.name "github-actions[bot]"
-        git diff --quiet && git diff --staged --quiet || git commit -am "Updated Pagespeed results"
-    - name: Push changes
-      uses: ad-m/github-push-action@master # This is a premade github action
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
