@@ -3,9 +3,7 @@
 <hr>
 
 <p align=center>
- <img src="https://github.com/CartimDraluc/Cartimpedia/blob/Prerelease/assets/images/Lighthouse%20Report.jpeg?raw=true">
- <img src="https://github.com/CartimDraluc/Cartimpedia/blob/Prerelease/assets/images/Lighthouse%20Report.png?raw=true">
-  *Captured at Jun 9, 2023, 9:12 PM GMT+6:30*
+ <img src="https://github.com/CartimDraluc/Cartimpedia/blob/main/reports/psi-audit-desktop-1.svg">
 </p>
 <hr>
 
