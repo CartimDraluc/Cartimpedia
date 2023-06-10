@@ -1,4 +1,4 @@
-name: Get Pagespeed results
+name: Pagespeed Results
 on:
   # schedule:
     # * is a special character in YAML so you have to quote this string
@@ -10,7 +10,7 @@ jobs:
   getpsresults:
     env:
       HOST: https://cartimdraluc.github.io/Cartimpedia/
-      PSURL: https://pagespeed-insights-backend.onrender.com/
+      PSURL: https://pagespeed-insights-backend.onrender.com
       PSRDESKTOP: psresultdesktop
       PSRMOBILE: psresultmobile
       RESULTSFOLDER: reports
