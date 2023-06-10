@@ -3,7 +3,7 @@
 <hr>
 
 <p align=center>
- <img src="https://github.com/CartimDraluc/Cartimpedia/blob/main/reports/psi-audit-desktop-1.svg">
+ <img src="https://github.com/CartimDraluc/Cartimpedia/blob/main/reports/psresultdesktop.svg">
 </p>
 <hr>
 
