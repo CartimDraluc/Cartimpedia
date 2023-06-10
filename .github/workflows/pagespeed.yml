@@ -9,8 +9,8 @@ on:
 jobs:
   getpsresults:
     env:
-      HOST: your_website_url
-      PSURL: https://pagespeed-insights.herokuapp.com
+      HOST: https://cartimdraluc.github.io/Cartimpedia/
+      PSURL: https://pagespeed-insights-backend.onrender.com/
       PSRDESKTOP: psresultdesktop
       PSRMOBILE: psresultmobile
       RESULTSFOLDER: reports
