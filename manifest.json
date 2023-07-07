@@ -1,10 +1,10 @@
 {
-    "name": "Food Ninja",
-    "short_name": "FoodNinja",
-    "start_url": "/index.html",
+    "name": "Cartimpedia",
+    "short_name": "Cartimpedia",
+    "start_url": "/Cartimpedia/index.html",
     "display": "standalone",
-    "background_color": "#FFE9D2",
-    "theme_color": "#FFE1C4",
+    "background_color": "#333333",
+    "theme_color": "#3F3F3F",
     "orientation": "portrait-primary",
     "icons": [
       {
