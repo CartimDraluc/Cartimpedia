@@ -1,17 +1,17 @@
-const staticCacheName = 'site-static-v2';
+const staticCacheName = 'site-static-v1';
 const dynamicCacheName = 'site-dynamic-v1';
 const assets = [
   '/Cartimpedia/',
   '/Cartimpedia/index.html',
+  '/Cartimpedia/assets/images/Logo.png',
   '/Cartimpedia/assets/css/style.css',
-  '/Cartimpedia/assets/images/temporary.ico',
   '/Cartimpedia/assets/pages/fallback.html',
   '/Cartimpedia/assets/pages/posts.html',
   '/Cartimpedia/assets/pages/memes.html',
   '/Cartimpedia/assets/pages/about.html',
   '/Cartimpedia/assets/scripts/app.js',
   '/Cartimpedia/assets/scripts/script.js',
-  'https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet',
+  'https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js',
   'https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js',
   'https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js',
@@ -70,7 +70,7 @@ self.addEventListener('fetch', evt => {
       });
     }).catch(() => {
       if(evt.request.url.indexOf('.html') > -1){
-        return caches.match('/assets/pages/fallback.html');
+        return caches.match('/Cartimpedia/assets/pages/fallback.html');
       } 
     })
   );
